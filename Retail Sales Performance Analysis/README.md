@@ -91,4 +91,4 @@ The interactive dashboard allows users to filter performance by:
 Sales increased in 2025, but profitability did not grow at the same rate.
 
 The analysis highlights the importance of evaluating business performance using both sales growth and profitability, while also considering product costs, returns, promotions, and channel performance.
-📁 [Download Excel Project](Retail_Sales_Performance_Analysis.xlsx)
+[Download Excel Project](Retail_Sales_Performance_Analysis.xlsx)
