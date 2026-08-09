@@ -8,7 +8,7 @@ An Excel-based retail sales analysis project using 2024–2025 transaction data.
 
 The project focuses on sales growth, profitability, product performance, returns, promotions, sales channels, and customer segments, with the results presented in an interactive dashboard.
 
-## Technical Skills
+## Tools
 
 - Microsoft Excel
 - Power Query
