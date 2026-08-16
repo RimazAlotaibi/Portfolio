@@ -57,5 +57,5 @@ Power BI · Power Query · DAX · Data Modeling · Data Validation · Business A
 
 ## Open the Dashboard
 
-Download [`/Supply Chain.pbix`](/Supply%20Chain.pbix) and open it in Power BI Desktop.
+Download [`/Supply Chain.pbix`](Supply-Chain-PowerBI/Supply Chain.pbix) and open it in Power BI Desktop.
 
