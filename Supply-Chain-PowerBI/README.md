@@ -25,23 +25,15 @@ An interactive Power BI dashboard for analyzing sales, profitability, delivery p
 
 ![Delivery Analysis](images/delivery-inventory.png)
 
-## Functions
+## Data Cleaning & Validation
 
-- **`SUM` and `SUMX`** aggregate financial values and calculate total discounts.
-- **`DISTINCTCOUNT`** counts every order once, even when it contains multiple product lines.
-- **`CALCULATE`** applies year, status, supplier, return, stockout, and delivery conditions.
-- **`DIVIDE`** creates safe percentage and ratio calculations.
-- **`VALUES`, `EXCEPT`, and `INTERSECT`** create unique order groups and prevent overlapping classifications.
-
-## Data Validation
-
-- Removed zero and negative quantities to prevent incorrect financial results.
+- Removed zero and negative quantities to protect sales, cost, and profit calculations.
 - Recalculated gross sales, net sales, product cost, and profit using validated fields.
-- Used distinct order IDs to avoid double counting multi-line orders.
-- Separated fully delivered, partially cancelled, and fully cancelled orders.
-- Made on-time and late-delivery groups mutually exclusive, producing rates that total 100%.
-- Used delivered orders as the return-rate denominator because cancelled orders cannot be returned.
-- Validated the star schema and its active many-to-one relationships.
+- Counted unique order IDs instead of order lines to prevent duplicated KPIs.
+- Separated fully delivered, partially cancelled, and fully cancelled orders without overlap.
+- Created mutually exclusive on-time and late-delivery groups, producing rates that total 100%.
+- Used delivered orders as the eligible population for returns, producing an accurate 8.75% return rate.
+- Validated the star schema and active many-to-one relationships to ensure reliable filtering.
 - Disabled year filtering for static supplier and warehouse reference metrics.
 
 ## Key Business Insights
@@ -50,6 +42,8 @@ An interactive Power BI dashboard for analyzing sales, profitability, delivery p
 - The Western region produced the highest profit.
 - Suppliers 19, 05, and 11 had the highest late-delivery rates.
 - Delivery reliability is the main operational risk, with 25.20% of delivered orders arriving late.
+- Supplier standard lead time did not strongly explain late-delivery performance.
+- Discounts showed a weak negative relationship with net sales and profit margin.
 
 ## Tools
 
@@ -57,5 +51,4 @@ Power BI · Power Query · DAX · Data Modeling · Data Validation · Business A
 
 ## Open the Dashboard
 
-Download [`/Supply Chain.pbix`](Supply-Chain-PowerBI/Supply Chain.pbix) and open it in Power BI Desktop.
-
+Download [Download the Power BI file](Supply%20Chain.pbix) and open it in Power BI Desktop.
