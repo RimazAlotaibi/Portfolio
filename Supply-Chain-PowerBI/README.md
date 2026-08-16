@@ -1,146 +1,61 @@
-# Supply Chain & Sales Dashboard | Power BI
+# Supply Chain Performance Dashboard - Power BI
 
-## Project Overview
+An interactive Power BI dashboard for analyzing sales, profitability, delivery performance, suppliers, warehouses, stockouts, and returns.
 
-This Power BI project analyzes **sales, profitability, inventory, supplier performance, warehouse efficiency, and delivery operations**.
+![Dashboard Demo](images/dashboard-demo.gif)
 
-The project covers the workflow from data cleaning and validation to data modeling, DAX calculations, dashboard development, insights, and recommendations.
+## Key Results
 
----
+- **Net Sales:** SAR 62.18M
+- **Profit:** SAR 16.04M
+- **Profit Margin:** 25.79%
+- **Total Orders:** 5,960
+- **Return Rate:** 8.75%
+- **Stockout Rate:** 8.76%
+- **On-Time Delivery:** 74.80%
+- **Late Delivery:** 25.20%
+
+## Charts
+
+- **KPI cards** provide a quick executive view of sales, profit, orders, returns, stockouts, and delivery performance.
+- **Line charts** compare monthly sales, profit, and late deliveries across 2024 and 2025.
+- **Bar and column charts** rank categories, products, regions, suppliers, warehouses, and shipping methods.
+- **Scatter plots with trend lines** examine the relationships between discounts, sales, profit margin, stockouts, and supplier lead time.
+- **The order-status donut chart** separates fully delivered, partially cancelled, and cancelled orders without overlap.
+
+![Delivery Analysis](images/delivery-inventory.png)
+
+## Functions
+
+- **`SUM` and `SUMX`** aggregate financial values and calculate total discounts.
+- **`DISTINCTCOUNT`** counts every order once, even when it contains multiple product lines.
+- **`CALCULATE`** applies year, status, supplier, return, stockout, and delivery conditions.
+- **`DIVIDE`** creates safe percentage and ratio calculations.
+- **`VALUES`, `EXCEPT`, and `INTERSECT`** create unique order groups and prevent overlapping classifications.
+
+## Data Validation
+
+- Removed zero and negative quantities to prevent incorrect financial results.
+- Recalculated gross sales, net sales, product cost, and profit using validated fields.
+- Used distinct order IDs to avoid double counting multi-line orders.
+- Separated fully delivered, partially cancelled, and fully cancelled orders.
+- Made on-time and late-delivery groups mutually exclusive, producing rates that total 100%.
+- Used delivered orders as the return-rate denominator because cancelled orders cannot be returned.
+- Validated the star schema and its active many-to-one relationships.
+- Disabled year filtering for static supplier and warehouse reference metrics.
+
+## Key Business Insights
+
+- Personal Care generated the highest sales and profit.
+- The Western region produced the highest profit.
+- Suppliers 19, 05, and 11 had the highest late-delivery rates.
+- Delivery reliability is the main operational risk, with 25.20% of delivered orders arriving late.
 
 ## Tools
 
-- Power BI
-- Power Query
-- DAX
-- Data Cleaning
-- Data Validation
-- Data Modeling
-- Data Visualization
+Power BI · Power Query · DAX · Data Modeling · Data Validation · Business Analysis
 
----
+## Open the Dashboard
 
-## Dashboard Preview
-
-![Dashboard Demo](images/Dashboard.gif)
-
-The report contains three interactive pages:
-
-1. Sales Overview
-2. Delivery, Suppliers & Inventory
-3. Profitability & Business Drivers
-
----
-
-## Data Cleaning & Validation
-
-The dataset was prepared and validated in Power Query before analysis.
-
-### Data Cleaning
-
-- Checked missing and null values
-- Checked duplicate records
-- Corrected data types
-- Standardized categorical values
-- Prepared date fields
-
-### Data Validation
-
-- Date validation
-- Delivery date checks
-- Quantity checks
-- Discount checks
-
-### Result
-
-A clean and consistent dataset ready for modeling and analysis.
-
----
-
-## Data Model
-
-The model is centered around `Fact_Sales_Orders` and connected dimension tables:
-
-- `Dim_Date`
-- `Dim_Products`
-- `Dim_Customers`
-- `Dim_Suppliers`
-- `Dim_Warehouses`
-
-![Data Model](images/data-model.png)
-
----
-
-## DAX Measures
-
-### Annual Sales Growth
-
-Measures the percentage change in net sales between 2024 and 2025.
-
-![Annual Sales Growth](images/DAX%20images/Annual_Sales_Growth.png)
-
-### Average Order Value
-
-Measures the average net sales generated per order.
-
-![Average Order Value](images/DAX%20images/Average_Order_Value.png)
-
-### Late Delivery Rate
-
-Measures the percentage of delivered orders that were delivered late.
-
-![Late Delivery Rate](images/DAX%20images/Late_Delivery_Rate.png)
-
-### Profit Margin
-
-Measures profit as a percentage of total net sales.
-
-![Profit Margin](images/DAX%20images/Profit_Margin.png)
-
----
-
-## Dashboard Pages
-
-### Sales Overview
-
-Sales trends, product performance, annual growth, average order value, shipping methods, and delivery status.
-
-![Sales Overview](images/sales-overview.png)
-
-### Delivery, Suppliers & Inventory
-
-Supplier performance, stockouts, lead times, late deliveries, and warehouse processing times.
-
-![Delivery Suppliers Inventory](images/delivery-suppliers-inventory.png)
-
-### Profitability & Business Drivers
-
-Profit performance by category and customer region, with discount analysis against net sales and profit margin.
-
-![Profitability Business Drivers](images/profitability-business-drivers.png)
-
----
-
-## Key Insights
-
-- Total Net Sales reached approximately **SAR 62.15M**.
-- Total Profit reached approximately **SAR 16M**, with a **25.82% Profit Margin**.
-- Annual Sales Growth was approximately **-0.35%**, indicating relatively stable sales between 2024 and 2025.
-- **Personal Care** generated the highest net sales and total profit.
-- The overall Stockout Rate was approximately **8.77%**.
-- **Supplier 19** recorded the highest Late Delivery Rate at approximately **39%**.
-- **Jazan Distribution Center** had the highest processing time among the warehouses displayed.
-- Supplier Lead Time showed only a weak relationship with Late Delivery Rate.
-- Higher discounts did not show a strong positive relationship with Net Sales.
-- Higher discounts showed a negative trend with Profit Margin.
-
----
-
-## Recommendations
-
-- Review suppliers with high Late Delivery Rates and investigate the causes of delays.
-- Investigate warehouse processing bottlenecks.
-- Improve inventory planning for products affected by stockouts.
-- Evaluate discount strategies based on their impact on sales and Profit Margin.
-- Prioritize high-performing product categories and customer regions.
+Download [`/Supply Chain.pbix`](/Supply%20Chain.pbix) and open it in Power BI Desktop.
 
