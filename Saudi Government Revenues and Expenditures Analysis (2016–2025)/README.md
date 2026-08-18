@@ -63,4 +63,4 @@ This project analyzes Saudi Arabia's government revenues and expenditures from 2
 
 A detailed report containing the complete analysis, visualizations, and business insights is available here:
 
-📄 [Project Report](![Government Expenditure by Sector](Saudi%20Government%20Revenues%20and%20Expenditures%20Analysis%20(2016%E2%80%932025)/images/report.pdf)
+📄 [Project Report](![Government Expenditure by Sector](https://raw.githubusercontent.com/RimazAlotaibi/Portfolio/main/Saudi%20Government%20Revenues%20and%20Expenditures%20Analysis%20%282016%E2%80%932025%29/report.pdf)
