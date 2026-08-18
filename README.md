@@ -1,77 +1,128 @@
 # Data Analytics Portfolio
 
+A collection of data analytics projects using **Python, Excel, Power BI, Power Query, DAX, and data visualization**.
 
-
-# Saudi Government Revenues and Expenditures Analysis (2016–2025)
-
-## Overview
-
-This project analyzes Saudi Arabia's government revenues and expenditures from 2016 to 2025 using Python. The objective is to evaluate fiscal performance, compare revenues and expenditures, examine the evolution of oil and non-oil revenues, and identify government spending priorities through data visualization and business analysis.
+Each project covers different parts of the data analysis process, including data cleaning, validation, analysis, KPI development, visualization, dashboards, and business insights.
 
 ---
 
-## Business Questions
+# Projects
 
-- How have government revenues and expenditures changed over time?
-- Which years recorded a budget surplus or deficit?
-- How have oil and non-oil revenues evolved?
-- Has the share of non-oil revenues increased over time?
-- Which government sectors received the highest expenditure?
+## 1. Saudi Government Revenues and Expenditures Analysis (2016–2025)
 
----
+**Tools:** Python · Pandas · Matplotlib
 
-## Dataset
+Analysis of Saudi Arabia's government revenues and expenditures from 2016 to 2025, focusing on fiscal performance, oil and non-oil revenues, budget balance, and government spending priorities.
 
-- **Source:** [KAPSARC Data Portal – Actual Government Revenues and Expenditures by Sector](https://datasource.kapsarc.org/explore/assets/actual-government-revenues-and-expenditures-by-sector/)
-- **Publisher:** Saudi Central Bank (SAMA)
-- **Period:** 2016–2025
-- **Records:** 140
-- **Sectors:** 14
+![Saudi Government Revenues and Expenditures](Saudi%20Government%20Revenues%20and%20Expenditures%20Analysis%20%282016%E2%80%932025%29/images/Government%20Revenues%20vs%20Expenditures%20%282016%E2%80%932025%29.jpg)
 
----
+### Key Findings
 
-## Key Visualizations
+- 2022 was the only year with a budget surplus during the analyzed period.
+- Oil revenues remained the largest revenue source but showed greater volatility.
+- Non-oil revenues showed steadier growth over time.
+- Military, education, and health and social development were among the largest expenditure areas.
 
-### Government Revenues vs. Expenditures
+### Analysis Includes
 
-![Government Revenues vs. Expenditures](Saudi%20Government%20Revenues%20and%20Expenditures%20Analysis%20%282016%E2%80%932025%29/images/Government%20Revenues%20vs%20Expenditures%20%282016%E2%80%932025%29.jpg)
+- Government Revenues vs. Expenditures
+- Budget Deficit / Surplus
+- Oil vs. Non-oil Revenues
+- Revenue Composition
+- Government Expenditure by Sector
 
----
-
-### Oil vs. Non-oil Revenues
-
-![Oil vs. Non-oil Revenues](Saudi%20Government%20Revenues%20and%20Expenditures%20Analysis%20%282016%E2%80%932025%29/images/Oil%20vs%20Non-oil%20Revenues%20%282016%E2%80%932025%29.jpg)
+[**View Full Project →**](Saudi%20Government%20Revenues%20and%20Expenditures%20Analysis%20%282016%E2%80%932025%29)
 
 ---
 
-### Government Expenditure by Sector
+## 2. Supply Chain Performance Dashboard
 
-![Government Expenditure by Sector](Saudi%20Government%20Revenues%20and%20Expenditures%20Analysis%20%282016%E2%80%932025%29/images/Total%20Expenditure%20by%20Sector.jpg)
+**Tools:** Power BI · Power Query · DAX · Data Modeling · Data Validation
+
+An interactive Power BI dashboard analyzing sales, profitability, delivery performance, suppliers, warehouses, stockouts, and returns.
+
+![Supply Chain Dashboard](Supply-Chain-Power-BI/images/dashboard-demo.gif)
+
+### Key Results
+
+- **Net Sales:** SAR 62.18M
+- **Profit:** SAR 16.04M
+- **Profit Margin:** 25.79%
+- **Total Orders:** 5,960
+- **Return Rate:** 8.75%
+- **Stockout Rate:** 8.76%
+- **On-Time Delivery:** 74.80%
+- **Late Delivery:** 25.20%
+
+### Key Findings
+
+- Personal Care generated the highest sales and profit.
+- The Western region generated the highest profit.
+- Suppliers 19, 05, and 11 had the highest late-delivery rates.
+- 25.20% of delivered orders arrived late.
+- Supplier standard lead time did not strongly explain late-delivery performance.
+- Discounts showed a weak negative relationship with net sales and profit margin.
+
+[**View Full Project →**](Supply-Chain-Power-BI)
 
 ---
 
-## Tools & Technologies
+## 3. Retail Sales Performance Analysis
+
+**Tools:** Excel · Power Query · Power Pivot · DAX · Pivot Tables · Pivot Charts
+
+An Excel-based retail sales analysis using 2024–2025 transaction data, focusing on sales growth, profitability, products, sales channels, promotions, returns, and customer segments.
+
+![Retail Sales Performance Dashboard](Retail%20Sales%20Performance%20Analysis/Retail_Sales_Performance_Analysis.gif)
+
+### Key Findings
+
+- Net Sales increased by **3.36%**.
+- Profit increased by only **1.13%**.
+- Profit Margin declined from **27.46% to 26.87%**.
+- Corporate Sales generated approximately **8.26M SAR** in Net Sales.
+- Retail Store achieved the highest Profit Margin at **31.42%**.
+- Footwear Return Rate increased from **8.79% to 14.57%**.
+- Ramadan Savings generated the highest promotional sales.
+
+### Analysis Includes
+
+- Sales Growth
+- Profitability
+- Product Performance
+- Sales Channels
+- Promotions
+- Returns
+- Customer Segments
+- Sales Representatives
+
+[**View Full Project →**](Retail%20Sales%20Performance%20Analysis)
+
+---
+
+# Technical Skills
 
 - Python
+- SQL
+- Microsoft Excel
+- Power BI
+- Power Query
+- Power Pivot
+- DAX
 - Pandas
 - Matplotlib
 
 ---
 
-## Skills Demonstrated
+# Data Analysis Skills
 
 - Data Cleaning
-- Exploratory Data Analysis (EDA)
+- Data Validation
+- Data Transformation
+- Exploratory Data Analysis
+- KPI Development
+- Data Modeling
+- Dashboard Development
 - Data Visualization
+- Trend Analysis
 - Business Insight Generation
-- Executive Reporting
-
----
-
-## Report
-
-A detailed report containing the complete analysis, visualizations, and business insights is available here:
-
-📄 **[Project Report](Saudi%20Government%20Revenues%20and%20Expenditures%20Analysis%20%282016%E2%80%932025%29/report.pdf)**
-
----
