@@ -23,23 +23,27 @@ This project analyzes Saudi Arabia's government revenues and expenditures from 2
 - **Sectors:** 14
 
 ## Key Visualizations
-
 ### Government Revenues vs. Expenditures
 
-![Government Revenues vs. Expenditures](Saudi%20Government%20Revenues%20and%20Expenditures%20Analysis%20(2016%E2%80%932025)/images/Government%20Revenues%20vs%20Expenditures%20(2016%E2%80%932025).jpg)
+![Government Revenues vs. Expenditures](https://raw.githubusercontent.com/RimazAlotaibi/Portfolio/main/Saudi%20Government%20Revenues%20and%20Expenditures%20Analysis%20%282016%E2%80%932025%29/images/Government%20Revenues%20vs%20Expenditures%20%282016%E2%80%932025%29.jpg)
+
+---
 
 ### Budget Balance: Deficit / Surplus
 
-![Budget Balance: Deficit / Surplus](Saudi%20Government%20Revenues%20and%20Expenditures%20Analysis%20(2016%E2%80%932025)/images/Budget_Balance_Deficit_Surplus.jpg)
+![Budget Balance: Deficit / Surplus](https://raw.githubusercontent.com/RimazAlotaibi/Portfolio/main/Saudi%20Government%20Revenues%20and%20Expenditures%20Analysis%20%282016%E2%80%932025%29/images/Budget_Balance_Deficit_Surplus.jpg)
 
+---
 
 ### Oil vs. Non-oil Revenues
 
-![Oil vs. Non-oil Revenues](Saudi%20Government%20Revenues%20and%20Expenditures%20Analysis%20(2016%E2%80%932025)/images/Oil%20vs%20Non-oil%20Revenues%20(2016%E2%80%932025).jpg)
+![Oil vs. Non-oil Revenues](https://raw.githubusercontent.com/RimazAlotaibi/Portfolio/main/Saudi%20Government%20Revenues%20and%20Expenditures%20Analysis%20%282016%E2%80%932025%29/images/Oil%20vs%20Non-oil%20Revenues%20%282016%E2%80%932025%29.jpg)
+
+---
 
 ### Government Expenditure by Sector
 
-![Government Expenditure by Sector](Saudi%20Government%20Revenues%20and%20Expenditures%20Analysis%20(2016%E2%80%932025)/images/Total%20Expenditure%20by%20Sector.jpg)
+![Government Expenditure by Sector](https://raw.githubusercontent.com/RimazAlotaibi/Portfolio/main/Saudi%20Government%20Revenues%20and%20Expenditures%20Analysis%20%282016%E2%80%932025%29/images/Total%20Expenditure%20by%20Sector.jpg)
 
 ## Tools & Technologies
 
