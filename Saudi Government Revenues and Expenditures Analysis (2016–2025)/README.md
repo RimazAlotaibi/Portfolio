@@ -34,21 +34,21 @@ This project analyzes Saudi Arabia's government revenues and expenditures from 2
 
 ### Government Revenues vs. Expenditures
 
-![Government Revenues vs. Expenditures](Saudi%20Government%20Revenues%20and%20Expenditures%20Analysis%20%282016%E2%80%932025%29/images/Government%20Revenues%20vs%20Expenditures%20%282016%E2%80%932025%29.jpg)
+![Government Revenues vs. Expenditures](Saudi Government Revenues and Expenditures Analysis (2016–2025)/images/Government Revenues vs Expenditures (2016–2025).jpg)
 
 
 ---
 
 ### Oil vs. Non-oil Revenues
 
-![Oil vs. Non-oil Revenues](Saudi%20Government%20Revenues%20and%20Expenditures%20Analysis%20%282016%E2%80%932025%29/images/Oil%20vs%20Non-oil%20Revenues%20%282016%E2%80%932025%29.jpg)
+![Oil vs. Non-oil Revenues](Saudi Government Revenues and Expenditures Analysis (2016–2025)/images/Oil vs Non-oil Revenues (2016–2025).jpg)
 
 
 ---
 
 ### Government Expenditure by Sector
 
-![Government Expenditure by Sector](Saudi%20Government%20Revenues%20and%20Expenditures%20Analysis%20%282016%E2%80%932025%29/images/Total%20Expenditure%20by%20Sector.jpg)
+![Government Expenditure by Sector](Saudi Government Revenues and Expenditures Analysis (2016–2025)/images/Total Expenditure by Sector.jpg)
 
 ---
 
@@ -74,6 +74,6 @@ This project analyzes Saudi Arabia's government revenues and expenditures from 2
 
 A detailed report containing the complete analysis, visualizations, and business insights is available here:
 
-📄  **[Project Report](Saudi%20Government%20Revenues%20and%20Expenditures%20Analysis%20%282016%E2%80%932025%29/report.pdf)**
+📄  **[Project Report](Saudi Government Revenues and Expenditures Analysis (2016–2025)/report.pdf)**
 
 ---
