@@ -160,12 +160,12 @@ The dashboard can be filtered by:
 
 ### SQL
 
-- [Database Setup](SQL/01_database_setup.sql)
-- [Employee Data Quality](SQL/02_employee_data_quality.sql)
-- [Job Profiles Data Quality](SQL/03_job_profiles_data_quality.sql)
-- [Cost of Living Data Quality](SQL/04_cost_of_living_data_quality.sql)
-- [Currency Standardization](SQL/05_currency_standardization.sql)
-- [HR Analysis](SQL/06_hr_analysis.sql)
+- [Database Setup](HR Analytics/SQL/01_database_setup.sql)
+- [Employee Data Quality](HR Analytics/SQL/02_employee_data_quality.sql)
+- [Job Profiles Data Quality](HR Analytics/SQL/03_job_profiles_data_quality.sql)
+- [Cost of Living Data Quality](HR Analytics/SQL/04_cost_of_living_data_quality.sql)
+- [Currency Standardization](HR Analytics/SQL/05_currency_standardization.sql)
+- [HR Analysis](HR Analytics/SQL/06_hr_analysis.sql)
 
 ### Power BI
 
@@ -201,10 +201,3 @@ SQL was used for database setup, data cleaning, validation, transformation, and 
 
 Power BI was used to create the data model, DAX measures, interactive filters, and dashboard visualizations to communicate HR and compensation insights.
 
----
-
-## Author
-
-**Rimaz Alotaibi**
-
-Computer Science Graduate | Data Analytics
