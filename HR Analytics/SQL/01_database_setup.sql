@@ -25,21 +25,34 @@ CREATE TABLE employees (
     Job_Profile TEXT,
     Notes TEXT
 );
+
 CREATE TABLE job_profiles (
     Department TEXT,
     Job_title TEXT,
-    Job_Profile	TEXT PRIMARY KEY,
-    Compensation INT,	
+    Job_Profile TEXT PRIMARY KEY,
+    Compensation INT,
     Level VARCHAR(100),
     Bonus_Pct DECIMAL(5, 2)
 );
+
 CREATE TABLE cost_of_living (
     Office VARCHAR(100),
     COL_Amount INT,
     Currency VARCHAR(3)
 );
 
+CREATE TABLE exchange_rates (
+    currency VARCHAR(3) PRIMARY KEY,
+    rate_to_usd DECIMAL(10,6)
+);
 
+INSERT INTO exchange_rates (currency, rate_to_usd)
+VALUES
+    ('USD', 1.000000),
+    ('GBP', 1.383100),
+    ('JPY', 0.009003),
+    ('NOK', 0.116268),
+    ('HKD', 0.128763);
 
 -- Standardize active status values
 UPDATE employees SET active_status = CASE
@@ -70,17 +83,18 @@ SET
     job_profile = TRIM(job_profile),
     notes = TRIM(notes);
 
-ALTER TABLE employees
-ADD CONSTRAINT fk_employee_job_profile
-FOREIGN KEY (job_profile)
-REFERENCES job_profiles(job_profile);
-
-UPDATE job_profiles SET 
+UPDATE job_profiles SET
 department = TRIM(department),
 level = TRIM(level),
 job_title = TRIM(job_title),
 job_profile = TRIM(job_profile);
 
-UPDATE employees 
-    SET Termination_Date =NULL 
-    WHERE Termination_Date = '2999-12-12' AND Active_Status= 'Active'
+UPDATE employees
+SET termination_date = NULL
+WHERE termination_date = '2999-12-12'
+AND active_status = 'Active';
+
+ALTER TABLE employees
+ADD CONSTRAINT fk_employee_job_profile
+FOREIGN KEY (job_profile)
+REFERENCES job_profiles(job_profile);

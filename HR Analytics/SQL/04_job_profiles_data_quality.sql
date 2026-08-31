@@ -2,9 +2,10 @@
 SELECT * FROM job_profiles;
 
 -- Check duplicate job profile values
-SELECT job_profile , count(*) FROM job_profiles
+SELECT job_profile,COUNT(*)
+FROM job_profiles
 GROUP BY job_profile
-HAVING count(*) > 1;
+HAVING COUNT(*) > 1;
 
 -- Check for NULL values
 SELECT 
@@ -16,35 +17,26 @@ SELECT
     COUNT(*) FILTER (WHERE bonus_pct IS NULL) AS missing_bonus_pct
 FROM job_profiles;
 
-
 -- Check department values
-SELECT 
-    DISTINCT department
+SELECT DISTINCT department
 FROM job_profiles;
 
 -- Check level values
-SELECT 
-    DISTINCT level 
+SELECT DISTINCT level
 FROM job_profiles;
 
 -- Check bonus percentage values
-SELECT DISTINCT bonus_pct 
+SELECT DISTINCT bonus_pct
 FROM job_profiles
 ORDER BY bonus_pct DESC;
 
-
 -- Check job title values
-SELECT 
-    DISTINCT job_title 
+SELECT DISTINCT job_title
 FROM job_profiles;
-
 
 -- Check compensation range
 SELECT 
-    max(compensation) AS Max_compensation,
-    min(compensation) AS Min_compensation,
-    avg(compensation) AS Avg_compensation 
+    MAX(compensation) AS max_compensation,
+    MIN(compensation) AS min_compensation,
+    AVG(compensation) AS avg_compensation 
 FROM job_profiles;
-
-
-

@@ -2,19 +2,14 @@
 SELECT * FROM cost_of_living;
 
 -- Check for blank text values
-SELECT * 
+SELECT *
 FROM cost_of_living
 WHERE TRIM(office) = ''
-    OR TRIM(currency) ='';
+   OR TRIM(currency) = '';
 
 -- Check cost of living range
-SELECT 
-    Max(col_amount) AS Max_col ,
-    min(col_amount) AS Min_col,
-    avg(col_amount) AS Avg_col 
+SELECT
+    MAX(col_amount) AS max_col,
+    MIN(col_amount) AS min_col,
+    AVG(col_amount) AS avg_col
 FROM cost_of_living;
-
-
-
-
-

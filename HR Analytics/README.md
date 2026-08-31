@@ -162,11 +162,12 @@ The dashboard can be filtered by:
 
 
 - [Database Setup](SQL/01_database_setup.sql)
-- [Employee Data Quality](SQL/02_employee_data_quality.sql)
-- [Job Profiles Data Quality](SQL/03_job_profiles_data_quality.sql)
-- [Cost of Living Data Quality](SQL/04_cost_of_living_data_quality.sql)
-- [Currency Standardization](SQL/05_currency_standardization.sql)
-- [HR Analysis](SQL/06_hr_analysis.sql)
+- [Database Setup](SQL/02_load_data.sql)
+- [Employee Data Quality](SQL/03_employee_data_quality.sql)
+- [Job Profiles Data Quality](SQL/04_job_profiles_data_quality.sql)
+- [Cost of Living Data Quality](SQL/05_cost_of_living_data_quality.sql)
+- [Currency Standardization](SQL/06_currency_standardization.sql)
+- [HR Analysis](SQL/07_hr_analysis.sql)
 
 ### Power BI
 

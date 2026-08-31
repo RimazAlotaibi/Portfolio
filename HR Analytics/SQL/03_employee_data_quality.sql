@@ -1,11 +1,11 @@
 -- Preview employee data
-select * from employees limit 20;
+SELECT * FROM employees LIMIT 20;
  
 -- Check for duplicate employee IDs
 SELECT 
-   count(employeeid) ,
-   count(DISTINCT EmployeeID)
- FROM employees;
+   COUNT(employeeid),
+   COUNT(DISTINCT employeeid)
+FROM employees;
 
 -- Check if termination date is before start date
 SELECT 
@@ -37,8 +37,6 @@ SELECT
 
 FROM employees;
 
-
-
 -- Check office values
 SELECT DISTINCT office
 FROM employees
@@ -54,7 +52,6 @@ SELECT DISTINCT job_title
 FROM employees
 ORDER BY job_title;
 
-
 -- Check for blank text values, not only NULL
 SELECT *
 FROM employees
@@ -62,62 +59,84 @@ WHERE TRIM(department) = ''
    OR TRIM(job_title) = ''
    OR TRIM(job_profile) = '';
 
-
-
 -- Review employees with missing state values
-
-SELECT EmployeeID,
+SELECT
+employeeid,
 first_name,
 state,
-city,statefull,office,job_title,job_profile
+city,
+statefull,
+office,
+job_title,
+job_profile
 FROM employees
-WHERE STATE IS NULL 
-limit 15;
+WHERE state IS NULL
+LIMIT 15;
 
 -- Review missing state values by office and country
 SELECT office,country,state
 FROM employees
-WHERE STATE IS NULL
-group by office,country,state;
+WHERE state IS NULL
+GROUP BY office,country,state;
 
 -- Employee count by office
-SELECT office,count(EmployeeID) AS Employees
+SELECT office,COUNT(employeeid) AS employees
 FROM employees
 GROUP BY office
-ORDER BY Employees DESC;
-
+ORDER BY employees DESC;
 
 -- Review distinct termination years
-SELECT DISTINCT EXTRACT(year from termination_date) AS year_of_termination_date
+SELECT DISTINCT EXTRACT(YEAR FROM termination_date) AS year_of_termination_date
 FROM employees
 ORDER BY year_of_termination_date;
 
 -- Review termination dates for active employees after 2023
-SELECT EmployeeID,start_date,termination_date,active_status,extract(year from termination_date) AS year_of_termination_date FROM employees
-WHERE active_status = 'Active' and  extract(year from termination_date) > 2023;
+SELECT
+employeeid,
+start_date,
+termination_date,
+active_status,
+EXTRACT(YEAR FROM termination_date) AS year_of_termination_date
+FROM employees
+WHERE active_status = 'Active'
+AND EXTRACT(YEAR FROM termination_date) > 2023;
 
 -- Review active employees with termination years between 2009 and 2023
-SELECT EmployeeID,start_date,termination_date,active_status,extract(year from termination_date) AS year_of_termination_date FROM employees
-WHERE active_status = 'Active' and  extract(year from termination_date) BETWEEN 2009 AND 2023;
+SELECT
+employeeid,
+start_date,
+termination_date,
+active_status,
+EXTRACT(YEAR FROM termination_date) AS year_of_termination_date
+FROM employees
+WHERE active_status = 'Active'
+AND EXTRACT(YEAR FROM termination_date) BETWEEN 2009 AND 2023;
 
 -- Employee count by country
-SELECT country,count(*) FROM employees
+SELECT country,COUNT(*)
+FROM employees
 GROUP BY country
 ORDER BY country DESC;
 
 -- Active vs. inactive employee count
-SELECT active_Status,count(*) FROM employees
-GROUP BY active_Status;
+SELECT active_status,COUNT(*)
+FROM employees
+GROUP BY active_status;
 
 -- Employee count by age
-SELECT age,count(*) FROM employees
+SELECT age,COUNT(*)
+FROM employees
 GROUP BY age
 ORDER BY age;
 
 -- Validate employees over 60 by comparing stored age with age calculated from DOB
-
-SELECT age,dob,active_status,Extract(year from age(current_date,dob))AS cal_age FROM employees
-WHERE age >60;
+SELECT
+age,
+dob,
+active_status,
+EXTRACT(YEAR FROM AGE(current_date,dob)) AS cal_age
+FROM employees
+WHERE age > 60;
 
 -- Check department values
 SELECT DISTINCT department
@@ -139,7 +158,8 @@ WHERE bonus_pct >= 0.5
 ORDER BY bonus_pct DESC;
 
 -- Review salary values by currency and job title
-SELECT DISTINCT salary,currency,job_title FROM employees
+SELECT DISTINCT salary,currency,job_title
+FROM employees
 ORDER BY salary DESC;
 
 -- Check salary ranges by currency
@@ -150,25 +170,3 @@ SELECT
     AVG(salary) AS avg_salary
 FROM employees
 GROUP BY currency;
-
--- Average salary by department
-SELECT 
-    department,
-    round(avg(salary)) AS avg_salary
-FROM employees 
-GROUP BY
-    department
-ORDER BY avg_salary DESC;
-
--- Top 3 highest-paid employees within each job title
-SELECT * FROM(
-    SELECT employeeid,
-      job_title,salary,
-       ROW_NUMBER() OVER (
-         PARTITION BY job_title
-       ORDER BY salary DESC, employeeid
-) AS salary_rank
-            FROM employees
-)RANKED
-WHERE salary_rank <=3;
-
