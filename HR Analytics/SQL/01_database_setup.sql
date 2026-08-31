@@ -54,22 +54,6 @@ VALUES
     ('NOK', 0.116268),
     ('HKD', 0.128763);
 
--- Standardize active status values
-UPDATE employees SET active_status = CASE
-    WHEN active_status = '1' THEN 'Active'
-    WHEN active_status = '0' THEN 'Inactive'
-    ELSE active_status
-END;
-
--- Trim all text columns
-UPDATE employees
-SET
-    first_name = TRIM(first_name),
-    surname = TRIM(surname),
-    streetaddress = TRIM(streetaddress),
-    city = TRIM(city),
-    state = TRIM(state),
-    statefull = TRIM(statefull),
     zipcode = TRIM(zipcode),
     country = TRIM(country),
     countryfull = TRIM(countryfull),

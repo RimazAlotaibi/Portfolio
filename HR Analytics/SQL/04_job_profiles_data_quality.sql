@@ -1,3 +1,16 @@
+-- Trim job profile text columns
+UPDATE job_profiles SET
+department = TRIM(department),
+level = TRIM(level),
+job_title = TRIM(job_title),
+job_profile = TRIM(job_profile);
+
+-- Add relationship between employees and job profiles
+ALTER TABLE employees
+ADD CONSTRAINT fk_employee_job_profile
+FOREIGN KEY (job_profile)
+REFERENCES job_profiles(job_profile);
+
 -- Preview job profile data
 SELECT * FROM job_profiles;
 

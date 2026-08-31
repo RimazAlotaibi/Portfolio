@@ -1,3 +1,38 @@
+-- Standardize active status values
+UPDATE employees SET active_status = CASE
+    WHEN active_status = '1' THEN 'Active'
+    WHEN active_status = '0' THEN 'Inactive'
+    ELSE active_status
+END;
+
+-- Trim all text columns
+UPDATE employees
+SET
+    first_name = TRIM(first_name),
+    surname = TRIM(surname),
+    streetaddress = TRIM(streetaddress),
+    city = TRIM(city),
+    state = TRIM(state),
+    statefull = TRIM(statefull),
+    zipcode = TRIM(zipcode),
+    country = TRIM(country),
+    countryfull = TRIM(countryfull),
+    office = TRIM(office),
+    office_type = TRIM(office_type),
+    department = TRIM(department),
+    currency = TRIM(currency),
+    job_title = TRIM(job_title),
+    level = TRIM(level),
+    active_status = TRIM(active_status),
+    job_profile = TRIM(job_profile),
+    notes = TRIM(notes);
+
+-- Replace placeholder termination date
+UPDATE employees
+SET termination_date = NULL
+WHERE termination_date = '2999-12-12'
+AND active_status = 'Active';
+
 -- Preview employee data
 SELECT * FROM employees LIMIT 20;
  
