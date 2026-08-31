@@ -1,5 +1,5 @@
 -- Create salary view in USD
-CREATE VIEW employees_usd AS
+CREATE OR REPLACE VIEW employees_usd AS
 SELECT
     e.*,
     e.salary * r.rate_to_usd AS salary_usd
