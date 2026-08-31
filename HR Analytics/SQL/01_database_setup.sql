@@ -53,32 +53,3 @@ VALUES
     ('JPY', 0.009003),
     ('NOK', 0.116268),
     ('HKD', 0.128763);
-
-    zipcode = TRIM(zipcode),
-    country = TRIM(country),
-    countryfull = TRIM(countryfull),
-    office = TRIM(office),
-    office_type = TRIM(office_type),
-    department = TRIM(department),
-    currency = TRIM(currency),
-    job_title = TRIM(job_title),
-    level = TRIM(level),
-    active_status = TRIM(active_status),
-    job_profile = TRIM(job_profile),
-    notes = TRIM(notes);
-
-UPDATE job_profiles SET
-department = TRIM(department),
-level = TRIM(level),
-job_title = TRIM(job_title),
-job_profile = TRIM(job_profile);
-
-UPDATE employees
-SET termination_date = NULL
-WHERE termination_date = '2999-12-12'
-AND active_status = 'Active';
-
-ALTER TABLE employees
-ADD CONSTRAINT fk_employee_job_profile
-FOREIGN KEY (job_profile)
-REFERENCES job_profiles(job_profile);
