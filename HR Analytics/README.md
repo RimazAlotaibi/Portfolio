@@ -141,8 +141,6 @@ The year selector updates the selected-year KPIs and breakdowns, while the turno
 
 Some of the key DAX measures used in the dashboard include:
 
-### Key DAX Measures
-
 #### Average Salary USD
 
 ![Average Salary USD DAX](Dax_Images/Average%20Salary%20USD.png)
