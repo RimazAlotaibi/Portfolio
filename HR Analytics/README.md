@@ -157,6 +157,7 @@ Some of the key DAX measures used in the dashboard include:
 
 ![Turnover Rate DAX](Dax_Images/Turnover%20Rate.png)
 
+---
 ### Interactive Filters
 
 The **HR Overview** page can be filtered by:
