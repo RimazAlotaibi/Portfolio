@@ -234,7 +234,7 @@ The **Turnover Analysis** page can be filtered by:
 - The compensation field from the job profile mapping was treated as the reference compensation value
 - Placeholder termination dates for active employees were converted to `NULL`
 - Missing state values were retained when the field was not applicable to the employee's location
-- The turnover metric is calculated as employees terminated during the selected year divided by employees who worked at any point during that year
+-The annual turnover rate is calculated as employees terminated during the selected year divided by employees who worked at any point during that year
 - The `HR Year` table is disconnected from the employee table and is used as a year selector for turnover measures
 
 ---
