@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes employee and compensation data using **PostgreSQL, SQL, Power BI, and DAX**.
+This project analyzes employee and compensation data using **SQL, Power BI, and DAX**.
 
 The goal of the project was to clean and validate HR data, analyze workforce and compensation patterns, standardize salaries across multiple currencies, analyze employee turnover, and build an interactive Power BI dashboard.
 
