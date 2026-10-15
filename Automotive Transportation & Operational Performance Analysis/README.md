@@ -12,7 +12,7 @@ The project analyzes **11,200 transportation orders** to assess carrier performa
 
 ## Dashboard Preview
 
-![Automotive Transportation Dashboard](Automotive Transportation & Operational Performance Analysis/Automotive_Dashboard_2x.gif)
+![Automotive Transportation Dashboard](Automotive Transportation & Operational Performance Analysis/images/Automotive_Dashboard_2x.gif)
 
 ### 1. Operations Overview
 
