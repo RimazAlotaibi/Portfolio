@@ -8,23 +8,23 @@ An end-to-end automotive transportation analytics project focused on evaluating 
 
 The project analyzes **11,200 transportation orders** to assess carrier performance, delivery delays, route efficiency, assignment response times, and operational exceptions.
 
-**Note:** This project uses synthetic data for portfolio and educational purposes.
+**Note:** This project uses synthetic data for portfolio purposes.
 
 ## Dashboard Preview
 
-![Automotive Transportation Dashboard](Automotive Transportation & Operational Performance Analysis/images/Automotive_Dashboard_2x.gif)
+![Automotive Transportation Dashboard](images/Automotive_Dashboard_2x.gif)
 
 ### 1. Operations Overview
 
-![Operations Overview](Automotive Transportation & Operational Performance Analysis/images/Operations_Overview.jpeg)
+![Operations Overview](images/Operations_Overview.jpeg)
 
 ### 2. Carrier & Route Performance
 
-![Carrier Route Performance](Automotive Transportation & Operational Performance Analysis/images/Carrier_Route_Performance.jpeg)
+![Carrier Route Performance](images/Carrier_Route_Performance.jpeg)
 
 ### 3. Assignment & Operational Exceptions
 
-![Operational Exceptions](Automotive Transportation & Operational Performance Analysis/images/Operational_Exceptions.jpeg)
+![Operational Exceptions](images/Operational_Exceptions.jpeg)
 
 ## Business Objectives
 
@@ -99,13 +99,13 @@ These findings identify operational patterns and investigation priorities rather
 
 ### AS-IS — Current Transportation Process
 
-![Current Transportation Process](Automotive Transportation & Operational Performance Analysis/images/AS-IS.png)
+![Current Transportation Process](images/AS-IS.png)
 
 The current-state model represents order creation, carrier assignment, vehicle dispatch, shipment tracking, and delivery confirmation.
 
 ### TO-BE — Proposed Improved Transportation Process
 
-![Improved Transportation Process](Automotive Transportation & Operational Performance Analysis/images/TO-BE_Improved_Transportation_Process.drawio.png)
+![Improved Transportation Process](images/TO-BE_Improved_Transportation_Process.drawio.png)
 
 The proposed process introduces:
 
@@ -132,3 +132,7 @@ These are proposed improvements and have not been deployed in a live operational
 This project demonstrates the ability to transform operational data into actionable business insights through data validation, KPI development, interactive reporting, diagnostic analysis, and process improvement recommendations.
 
 **Disclaimer:** All data is synthetic. Operational improvements are proposed and have not been tested through real-world implementation.
+
+
+
+
