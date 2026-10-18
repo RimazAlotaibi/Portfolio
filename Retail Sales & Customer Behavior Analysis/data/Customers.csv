@@ -1,0 +1,1401 @@
+﻿CustomerID,JoinDate,City,LoyaltyMember,AcquisitionChannel
+C00001,2023-02-07,Jeddah,1,Social Media
+C00002,2024-07-20,Makkah,1,Referral
+C00003,2023-06-01,Makkah,1,In-Store Signup
+C00004,2023-05-23,Makkah,0,Referral
+C00005,2023-02-09,Jeddah,1,Organic
+C00006,2023-08-24,Makkah,0,Paid Search
+C00007,2026-04-14,Jeddah,1,Paid Search
+C00008,2023-10-20,Jeddah,1,Social Media
+C00009,2023-08-28,Jeddah,1,In-Store Signup
+C00010,2025-10-02,Riyadh,1,In-Store Signup
+C00011,2025-09-05,Riyadh,0,In-Store Signup
+C00012,2025-04-24,Jeddah,1,Social Media
+C00013,2024-11-29,Makkah,1,Paid Search
+C00014,2023-09-17,Jeddah,1,Social Media
+C00015,2024-07-11,Makkah,0,In-Store Signup
+C00016,2026-04-25,Makkah,0,Referral
+C00017,2024-04-02,Jeddah,1,Paid Search
+C00018,2025-08-18,Makkah,0,In-Store Signup
+C00019,2023-09-03,Jeddah,0,Organic
+C00020,2024-03-02,Makkah,0,Referral
+C00021,2026-04-05,Makkah,0,Paid Search
+C00022,2024-12-05,Makkah,1,Paid Search
+C00023,2023-03-07,Jeddah,0,Paid Search
+C00024,2026-07-17,Riyadh,1,Organic
+C00025,2023-06-24,Jeddah,1,Social Media
+C00026,2023-10-17,Jeddah,1,Social Media
+C00027,2025-08-06,Makkah,1,In-Store Signup
+C00028,2024-10-13,Riyadh,1,Organic
+C00029,2025-10-07,Riyadh,0,In-Store Signup
+C00030,2026-04-22,Jeddah,0,Referral
+C00031,2026-04-14,Jeddah,1,In-Store Signup
+C00032,2023-10-23,Jeddah,1,Social Media
+C00033,2023-11-15,Makkah,1,Referral
+C00034,2024-03-29,Riyadh,1,Referral
+C00035,2025-07-14,Jeddah,1,Social Media
+C00036,2025-07-19,Makkah,1,Referral
+C00037,2024-02-01,Jeddah,1,In-Store Signup
+C00038,2026-07-20,Jeddah,1,Organic
+C00039,2024-04-15,Makkah,0,Referral
+C00040,2023-02-27,Makkah,1,Organic
+C00041,2026-04-12,Riyadh,0,In-Store Signup
+C00042,2026-01-06,Jeddah,1,Organic
+C00043,2025-10-14,Jeddah,0,Referral
+C00044,2025-09-11,Makkah,0,In-Store Signup
+C00045,2025-12-26,Makkah,1,Social Media
+C00046,2023-03-21,Jeddah,1,Social Media
+C00047,2023-01-19,Jeddah,1,Referral
+C00048,2024-10-16,Jeddah,1,Social Media
+C00049,2025-06-24,Jeddah,1,Social Media
+C00050,2023-07-11,Jeddah,0,Organic
+C00051,2023-04-24,Jeddah,1,Referral
+C00052,2024-08-14,Riyadh,1,Social Media
+C00053,2026-03-02,Jeddah,1,In-Store Signup
+C00054,2025-05-06,Jeddah,1,Referral
+C00055,2023-09-17,Riyadh,0,In-Store Signup
+C00056,2023-06-27,Jeddah,1,Organic
+C00057,2023-03-19,Jeddah,1,In-Store Signup
+C00058,2026-03-06,Riyadh,0,Paid Search
+C00059,2026-07-12,Jeddah,0,Social Media
+C00060,2025-10-12,Riyadh,1,In-Store Signup
+C00061,2024-03-09,Riyadh,0,Referral
+C00062,2024-03-04,Makkah,1,Referral
+C00063,2023-10-20,Jeddah,1,In-Store Signup
+C00064,2024-03-28,Makkah,1,In-Store Signup
+C00065,2023-12-04,Jeddah,0,Referral
+C00066,2023-10-13,Jeddah,1,Organic
+C00067,2023-05-28,Riyadh,1,Social Media
+C00068,2024-01-14,Makkah,1,Paid Search
+C00069,2026-05-23,Jeddah,0,Organic
+C00070,2025-08-18,Jeddah,1,In-Store Signup
+C00071,2024-06-25,Jeddah,0,Referral
+C00072,2023-02-09,Riyadh,1,In-Store Signup
+C00073,2025-11-18,Riyadh,1,Social Media
+C00074,2023-09-05,Makkah,1,Referral
+C00075,2024-12-09,Makkah,1,Organic
+C00076,2024-02-12,Makkah,1,Organic
+C00077,2023-04-17,Riyadh,1,Referral
+C00078,2024-09-22,Jeddah,1,Referral
+C00079,2023-08-07,Jeddah,0,In-Store Signup
+C00080,2024-12-03,Jeddah,0,In-Store Signup
+C00081,2023-10-12,Jeddah,1,Paid Search
+C00082,2023-09-07,Riyadh,0,Referral
+C00083,2025-10-25,Jeddah,1,Organic
+C00084,2025-03-25,Riyadh,1,Referral
+C00085,2025-07-30,Jeddah,0,Social Media
+C00086,2025-02-09,Jeddah,0,In-Store Signup
+C00087,2024-02-21,Riyadh,1,In-Store Signup
+C00088,2024-05-08,Jeddah,1,Organic
+C00089,2026-04-26,Jeddah,1,Referral
+C00090,2025-04-01,Riyadh,0,Organic
+C00091,2024-11-15,Riyadh,1,In-Store Signup
+C00092,2026-04-26,Jeddah,1,In-Store Signup
+C00093,2023-02-17,Jeddah,1,In-Store Signup
+C00094,2024-08-29,Riyadh,1,In-Store Signup
+C00095,2023-09-05,Riyadh,0,Social Media
+C00096,2025-11-10,Riyadh,0,Social Media
+C00097,2023-07-02,Riyadh,1,Social Media
+C00098,2024-03-28,Jeddah,0,Social Media
+C00099,2026-01-25,Riyadh,1,Organic
+C00100,2023-05-13,Jeddah,0,Referral
+C00101,2025-06-21,Jeddah,0,Organic
+C00102,2024-03-09,Makkah,0,Social Media
+C00103,2023-08-06,Makkah,1,In-Store Signup
+C00104,2024-06-29,Jeddah,1,Referral
+C00105,2024-11-26,Jeddah,1,Social Media
+C00106,2025-03-03,Riyadh,0,Organic
+C00107,2024-11-10,Riyadh,1,In-Store Signup
+C00108,2025-12-05,Jeddah,0,In-Store Signup
+C00109,2026-01-27,Riyadh,1,In-Store Signup
+C00110,2023-04-16,Riyadh,1,In-Store Signup
+C00111,2025-10-19,Riyadh,1,Social Media
+C00112,2025-12-22,Jeddah,1,Organic
+C00113,2023-06-01,Riyadh,0,Social Media
+C00114,2023-05-17,Riyadh,1,Referral
+C00115,2025-12-06,Jeddah,1,Referral
+C00116,2025-07-15,Makkah,0,In-Store Signup
+C00117,2023-12-25,Jeddah,0,In-Store Signup
+C00118,2023-06-28,Riyadh,1,In-Store Signup
+C00119,2026-08-11,Jeddah,1,Referral
+C00120,2024-06-08,Jeddah,1,Organic
+C00121,2024-08-22,Riyadh,0,Organic
+C00122,2025-10-15,Jeddah,1,Organic
+C00123,2024-07-02,Jeddah,0,Referral
+C00124,2023-05-19,Jeddah,0,Referral
+C00125,2025-02-01,Makkah,1,Social Media
+C00126,2026-04-22,Riyadh,1,Paid Search
+C00127,2026-01-06,Jeddah,1,Paid Search
+C00128,2025-11-09,Makkah,1,Referral
+C00129,2023-10-02,Jeddah,1,Social Media
+C00130,2025-07-20,Riyadh,1,Referral
+C00131,2025-02-07,Jeddah,0,Social Media
+C00132,2024-03-22,Riyadh,1,In-Store Signup
+C00133,2023-09-28,Makkah,1,Organic
+C00134,2026-05-10,Riyadh,0,Referral
+C00135,2024-04-09,Riyadh,1,Referral
+C00136,2025-02-13,Riyadh,1,Social Media
+C00137,2025-04-07,Riyadh,1,Organic
+C00138,2024-09-19,Jeddah,0,Referral
+C00139,2026-02-01,Jeddah,1,In-Store Signup
+C00140,2023-03-28,Jeddah,0,In-Store Signup
+C00141,2023-08-13,Riyadh,1,Referral
+C00142,2026-06-14,Makkah,0,Social Media
+C00143,2024-07-08,Riyadh,0,Organic
+C00144,2024-03-01,Makkah,1,Organic
+C00145,2025-10-29,Riyadh,0,Organic
+C00146,2024-04-02,Makkah,1,Referral
+C00147,2023-05-10,Riyadh,1,In-Store Signup
+C00148,2025-09-23,Makkah,0,In-Store Signup
+C00149,2025-10-29,Makkah,0,In-Store Signup
+C00150,2026-02-17,Jeddah,0,Paid Search
+C00151,2025-07-28,Riyadh,0,Organic
+C00152,2024-01-14,Makkah,0,Social Media
+C00153,2023-07-02,Riyadh,1,Organic
+C00154,2023-02-27,Jeddah,1,Referral
+C00155,2025-08-16,Jeddah,0,Referral
+C00156,2023-06-28,Makkah,1,Social Media
+C00157,2025-07-10,Makkah,1,Referral
+C00158,2026-07-23,Jeddah,1,Social Media
+C00159,2024-01-28,Jeddah,0,Organic
+C00160,2024-03-09,Makkah,1,Organic
+C00161,2023-09-15,Riyadh,1,Referral
+C00162,2023-09-27,Jeddah,1,Social Media
+C00163,2025-06-25,Riyadh,1,In-Store Signup
+C00164,2023-09-27,Jeddah,1,Paid Search
+C00165,2024-06-24,Jeddah,0,Social Media
+C00166,2024-02-25,Makkah,1,In-Store Signup
+C00167,2024-05-09,Makkah,1,Organic
+C00168,2023-12-25,Riyadh,1,Paid Search
+C00169,2025-01-05,Makkah,1,In-Store Signup
+C00170,2023-09-02,Riyadh,1,Referral
+C00171,2025-09-22,Jeddah,0,Social Media
+C00172,2024-12-17,Jeddah,0,Organic
+C00173,2023-02-01,Makkah,1,Social Media
+C00174,2023-05-21,Jeddah,1,Referral
+C00175,2025-09-07,Jeddah,1,Social Media
+C00176,2023-07-01,Makkah,1,Organic
+C00177,2026-05-06,Jeddah,1,Social Media
+C00178,2023-09-26,Makkah,0,Organic
+C00179,2026-07-29,Jeddah,0,Organic
+C00180,2025-01-25,Makkah,1,In-Store Signup
+C00181,2023-04-20,Makkah,1,Paid Search
+C00182,2023-12-08,Jeddah,1,Organic
+C00183,2023-01-09,Jeddah,0,Organic
+C00184,2023-06-17,Riyadh,1,In-Store Signup
+C00185,2026-01-16,Jeddah,1,Organic
+C00186,2026-03-14,Makkah,0,Referral
+C00187,2023-05-19,Riyadh,0,Referral
+C00188,2023-06-13,Riyadh,0,Organic
+C00189,2025-01-18,Makkah,0,Referral
+C00190,2023-05-22,Riyadh,1,Organic
+C00191,2024-02-07,Riyadh,1,In-Store Signup
+C00192,2023-10-28,Riyadh,1,In-Store Signup
+C00193,2026-01-31,Makkah,1,Paid Search
+C00194,2025-08-27,Jeddah,0,In-Store Signup
+C00195,2024-04-27,Jeddah,0,In-Store Signup
+C00196,2026-01-08,Makkah,0,Referral
+C00197,2024-02-20,Makkah,1,Organic
+C00198,2024-04-17,Riyadh,0,Social Media
+C00199,2025-04-01,Riyadh,0,Organic
+C00200,2024-02-10,Jeddah,0,Social Media
+C00201,2023-08-05,Jeddah,1,In-Store Signup
+C00202,2024-05-16,Riyadh,1,Paid Search
+C00203,2024-12-29,Riyadh,1,In-Store Signup
+C00204,2026-05-30,Makkah,1,In-Store Signup
+C00205,2024-04-07,Jeddah,1,Organic
+C00206,2025-02-15,Makkah,0,Social Media
+C00207,2025-08-13,Riyadh,1,Organic
+C00208,2023-07-01,Jeddah,1,Social Media
+C00209,2025-08-30,Jeddah,1,Organic
+C00210,2023-03-28,Jeddah,1,In-Store Signup
+C00211,2024-07-19,Jeddah,0,In-Store Signup
+C00212,2023-01-20,Riyadh,0,Organic
+C00213,2023-08-15,Jeddah,1,In-Store Signup
+C00214,2023-05-04,Makkah,0,Social Media
+C00215,2025-12-09,Jeddah,1,Social Media
+C00216,2023-03-07,Jeddah,0,Social Media
+C00217,2026-04-26,Riyadh,0,Referral
+C00218,2026-01-14,Jeddah,1,Social Media
+C00219,2024-04-26,Riyadh,0,Referral
+C00220,2024-10-07,Jeddah,0,Organic
+C00221,2023-11-11,Riyadh,1,In-Store Signup
+C00222,2023-08-11,Makkah,1,In-Store Signup
+C00223,2025-04-28,Jeddah,1,Referral
+C00224,2025-09-09,Riyadh,1,In-Store Signup
+C00225,2025-07-01,Jeddah,0,Social Media
+C00226,2026-08-09,Riyadh,0,In-Store Signup
+C00227,2025-01-24,Makkah,0,Referral
+C00228,2024-09-12,Riyadh,1,Social Media
+C00229,2024-01-30,Riyadh,1,In-Store Signup
+C00230,2024-04-15,Riyadh,1,Organic
+C00231,2026-02-26,Makkah,1,Referral
+C00232,2024-06-01,Jeddah,1,Referral
+C00233,2024-07-09,Riyadh,1,In-Store Signup
+C00234,2023-10-17,Jeddah,0,Referral
+C00235,2024-07-28,Riyadh,1,Paid Search
+C00236,2024-11-24,Jeddah,1,Organic
+C00237,2023-09-14,Jeddah,0,In-Store Signup
+C00238,2024-02-09,Jeddah,1,Referral
+C00239,2026-06-29,Riyadh,0,In-Store Signup
+C00240,2026-06-02,Riyadh,0,Referral
+C00241,2024-11-05,Jeddah,0,Organic
+C00242,2024-12-06,Jeddah,1,Referral
+C00243,2023-05-15,Jeddah,0,In-Store Signup
+C00244,2026-07-10,Jeddah,0,Organic
+C00245,2025-03-05,Riyadh,1,Referral
+C00246,2023-06-12,Riyadh,1,Organic
+C00247,2026-04-08,Jeddah,0,Organic
+C00248,2023-12-09,Makkah,0,Paid Search
+C00249,2025-08-04,Jeddah,0,In-Store Signup
+C00250,2024-07-28,Riyadh,1,Referral
+C00251,2026-07-27,Riyadh,1,Organic
+C00252,2025-08-08,Riyadh,1,In-Store Signup
+C00253,2024-03-22,Makkah,0,In-Store Signup
+C00254,2024-07-09,Riyadh,0,Referral
+C00255,2024-03-18,Makkah,1,Organic
+C00256,2023-01-20,Jeddah,1,In-Store Signup
+C00257,2025-04-24,Jeddah,0,In-Store Signup
+C00258,2026-08-08,Jeddah,0,Referral
+C00259,2024-02-05,Jeddah,1,Organic
+C00260,2024-09-12,Riyadh,1,Organic
+C00261,2023-01-05,Jeddah,1,Paid Search
+C00262,2024-10-07,Jeddah,1,Organic
+C00263,2024-06-02,Jeddah,1,Social Media
+C00264,2023-10-08,Riyadh,0,Referral
+C00265,2026-07-08,Makkah,1,Referral
+C00266,2025-04-19,Makkah,1,In-Store Signup
+C00267,2024-08-10,Makkah,1,Organic
+C00268,2024-11-19,Riyadh,1,In-Store Signup
+C00269,2023-04-30,Jeddah,1,In-Store Signup
+C00270,2024-08-01,Jeddah,0,Organic
+C00271,2025-05-09,Jeddah,0,Social Media
+C00272,2025-10-16,Riyadh,1,In-Store Signup
+C00273,2024-11-30,Riyadh,1,In-Store Signup
+C00274,2023-03-12,Jeddah,1,In-Store Signup
+C00275,2023-04-30,Riyadh,1,Organic
+C00276,2025-09-05,Makkah,1,Organic
+C00277,2024-04-02,Jeddah,1,In-Store Signup
+C00278,2025-11-26,Riyadh,0,In-Store Signup
+C00279,2025-10-28,Jeddah,1,Organic
+C00280,2025-03-01,Jeddah,1,Referral
+C00281,2026-05-07,Riyadh,0,Organic
+C00282,2023-04-30,Riyadh,0,Referral
+C00283,2024-11-06,Riyadh,1,Referral
+C00284,2024-11-28,Riyadh,1,Organic
+C00285,2025-02-23,Makkah,1,Social Media
+C00286,2025-08-09,Jeddah,0,Referral
+C00287,2026-05-25,Riyadh,1,In-Store Signup
+C00288,2024-09-12,Makkah,0,Paid Search
+C00289,2025-03-29,Jeddah,0,Organic
+C00290,2025-11-08,Makkah,0,Referral
+C00291,2024-12-10,Riyadh,1,Organic
+C00292,2023-08-06,Jeddah,1,Referral
+C00293,2024-01-01,Jeddah,1,Social Media
+C00294,2024-03-01,Makkah,1,In-Store Signup
+C00295,2025-02-27,Jeddah,0,In-Store Signup
+C00296,2024-07-06,Riyadh,0,In-Store Signup
+C00297,2024-12-27,Jeddah,1,In-Store Signup
+C00298,2025-01-24,Riyadh,1,Referral
+C00299,2025-10-22,Makkah,1,Organic
+C00300,2026-01-06,Jeddah,1,Referral
+C00301,2024-02-25,Makkah,0,Organic
+C00302,2024-07-24,Jeddah,0,Referral
+C00303,2025-11-27,Jeddah,0,Organic
+C00304,2023-12-13,Jeddah,0,Paid Search
+C00305,2023-01-09,Jeddah,0,Referral
+C00306,2024-10-09,Makkah,1,In-Store Signup
+C00307,2025-05-12,Makkah,1,Social Media
+C00308,2023-02-27,Jeddah,0,Organic
+C00309,2023-04-24,Riyadh,1,In-Store Signup
+C00310,2026-01-16,Makkah,0,Social Media
+C00311,2026-07-23,Riyadh,0,In-Store Signup
+C00312,2024-04-14,Riyadh,1,Organic
+C00313,2025-02-02,Riyadh,1,Referral
+C00314,2023-01-10,Riyadh,0,Social Media
+C00315,2024-11-21,Jeddah,1,In-Store Signup
+C00316,2025-02-18,Jeddah,1,In-Store Signup
+C00317,2023-11-11,Riyadh,1,Referral
+C00318,2026-04-11,Jeddah,1,Social Media
+C00319,2023-07-07,Jeddah,1,In-Store Signup
+C00320,2026-01-28,Riyadh,1,In-Store Signup
+C00321,2023-07-25,Riyadh,1,Organic
+C00322,2024-12-03,Riyadh,0,Referral
+C00323,2025-04-05,Jeddah,1,In-Store Signup
+C00324,2024-07-17,Jeddah,0,Organic
+C00325,2026-04-30,Jeddah,1,Referral
+C00326,2024-03-15,Jeddah,0,In-Store Signup
+C00327,2025-04-23,Jeddah,0,Organic
+C00328,2024-05-08,Makkah,1,Social Media
+C00329,2024-02-15,Makkah,0,Social Media
+C00330,2024-03-13,Jeddah,1,Referral
+C00331,2025-02-21,Makkah,0,Paid Search
+C00332,2024-12-09,Jeddah,1,Organic
+C00333,2023-05-31,Jeddah,1,Social Media
+C00334,2023-02-05,Jeddah,1,Referral
+C00335,2025-08-21,Riyadh,1,Referral
+C00336,2026-04-03,Makkah,1,In-Store Signup
+C00337,2024-08-25,Jeddah,1,Social Media
+C00338,2025-02-01,Jeddah,1,Referral
+C00339,2024-06-06,Jeddah,1,In-Store Signup
+C00340,2026-05-21,Riyadh,1,Referral
+C00341,2024-05-30,Jeddah,1,Organic
+C00342,2026-08-13,Jeddah,1,In-Store Signup
+C00343,2026-05-26,Riyadh,0,Paid Search
+C00344,2023-08-03,Riyadh,1,Social Media
+C00345,2026-07-24,Riyadh,1,Referral
+C00346,2023-05-26,Jeddah,0,Social Media
+C00347,2024-06-30,Makkah,0,Paid Search
+C00348,2024-08-03,Riyadh,0,Social Media
+C00349,2023-11-30,Riyadh,0,In-Store Signup
+C00350,2025-04-27,Riyadh,1,Social Media
+C00351,2025-11-30,Riyadh,0,Social Media
+C00352,2024-12-27,Jeddah,1,Social Media
+C00353,2023-06-18,Riyadh,1,Organic
+C00354,2024-11-22,Riyadh,1,Referral
+C00355,2026-02-09,Riyadh,1,Organic
+C00356,2023-12-25,Makkah,0,Organic
+C00357,2025-02-15,Jeddah,1,Referral
+C00358,2024-12-12,Makkah,0,Social Media
+C00359,2026-01-31,Makkah,1,Referral
+C00360,2023-04-21,Jeddah,0,Referral
+C00361,2023-12-29,Riyadh,1,Organic
+C00362,2023-06-27,Jeddah,1,In-Store Signup
+C00363,2026-06-07,Jeddah,1,Organic
+C00364,2025-09-16,Jeddah,1,Social Media
+C00365,2025-10-03,Riyadh,1,Paid Search
+C00366,2025-12-26,Jeddah,0,Organic
+C00367,2024-09-09,Riyadh,1,In-Store Signup
+C00368,2024-07-16,Makkah,1,Social Media
+C00369,2025-07-12,Riyadh,1,Organic
+C00370,2024-08-02,Jeddah,1,In-Store Signup
+C00371,2026-01-26,Makkah,0,Referral
+C00372,2024-05-20,Jeddah,1,In-Store Signup
+C00373,2023-07-24,Jeddah,1,Organic
+C00374,2023-11-06,Jeddah,1,Organic
+C00375,2023-08-25,Makkah,0,Organic
+C00376,2026-05-24,Jeddah,0,Referral
+C00377,2023-05-19,Riyadh,1,In-Store Signup
+C00378,2024-09-25,Riyadh,1,In-Store Signup
+C00379,2023-01-09,Makkah,0,Organic
+C00380,2023-11-02,Makkah,1,Organic
+C00381,2025-10-16,Makkah,1,Paid Search
+C00382,2023-04-02,Makkah,0,Social Media
+C00383,2023-12-20,Jeddah,1,In-Store Signup
+C00384,2023-08-03,Riyadh,0,Paid Search
+C00385,2026-04-09,Riyadh,1,Social Media
+C00386,2026-02-21,Jeddah,1,In-Store Signup
+C00387,2025-03-10,Jeddah,1,In-Store Signup
+C00388,2024-02-21,Jeddah,1,Social Media
+C00389,2025-12-26,Riyadh,0,In-Store Signup
+C00390,2023-02-13,Riyadh,1,In-Store Signup
+C00391,2023-12-20,Riyadh,0,Social Media
+C00392,2025-12-05,Jeddah,1,Social Media
+C00393,2026-08-08,Riyadh,1,Organic
+C00394,2024-10-17,Riyadh,1,Paid Search
+C00395,2025-12-31,Jeddah,1,Organic
+C00396,2023-06-07,Jeddah,1,Referral
+C00397,2026-07-14,Makkah,0,In-Store Signup
+C00398,2024-12-27,Riyadh,0,In-Store Signup
+C00399,2024-09-13,Riyadh,1,In-Store Signup
+C00400,2026-01-03,Riyadh,0,Organic
+C00401,2025-06-21,Makkah,1,Organic
+C00402,2023-04-23,Makkah,0,Social Media
+C00403,2025-11-26,Jeddah,1,Paid Search
+C00404,2023-05-18,Makkah,1,In-Store Signup
+C00405,2024-01-22,Jeddah,1,Organic
+C00406,2023-02-09,Jeddah,1,In-Store Signup
+C00407,2023-06-03,Jeddah,0,Organic
+C00408,2025-10-16,Makkah,0,In-Store Signup
+C00409,2023-08-07,Riyadh,0,Paid Search
+C00410,2025-08-05,Makkah,0,Social Media
+C00411,2026-02-22,Riyadh,1,Organic
+C00412,2025-03-23,Jeddah,1,Referral
+C00413,2024-03-19,Jeddah,0,In-Store Signup
+C00414,2023-10-02,Makkah,1,Organic
+C00415,2024-12-19,Riyadh,0,Organic
+C00416,2026-07-15,Jeddah,0,Organic
+C00417,2025-06-05,Riyadh,0,Referral
+C00418,2023-11-28,Jeddah,0,Organic
+C00419,2024-10-22,Riyadh,1,Referral
+C00420,2023-05-11,Jeddah,1,Referral
+C00421,2023-08-30,Jeddah,1,Organic
+C00422,2025-09-11,Jeddah,1,In-Store Signup
+C00423,2024-08-29,Riyadh,1,Social Media
+C00424,2025-07-06,Jeddah,0,In-Store Signup
+C00425,2023-04-27,Makkah,0,Referral
+C00426,2023-05-06,Jeddah,0,Referral
+C00427,2024-08-14,Riyadh,1,Referral
+C00428,2024-08-02,Jeddah,0,In-Store Signup
+C00429,2025-04-23,Riyadh,1,Organic
+C00430,2024-08-23,Riyadh,0,Social Media
+C00431,2023-09-27,Riyadh,1,Paid Search
+C00432,2023-12-24,Riyadh,0,Social Media
+C00433,2024-10-13,Jeddah,1,In-Store Signup
+C00434,2026-04-09,Jeddah,1,In-Store Signup
+C00435,2026-03-02,Riyadh,1,In-Store Signup
+C00436,2023-05-02,Makkah,0,Organic
+C00437,2025-02-05,Riyadh,1,Organic
+C00438,2024-01-10,Jeddah,0,Organic
+C00439,2023-10-07,Riyadh,1,In-Store Signup
+C00440,2026-02-12,Jeddah,0,Social Media
+C00441,2024-11-03,Jeddah,1,Organic
+C00442,2025-07-27,Makkah,1,In-Store Signup
+C00443,2024-02-24,Riyadh,1,Referral
+C00444,2026-08-08,Jeddah,1,In-Store Signup
+C00445,2025-12-20,Riyadh,0,Social Media
+C00446,2023-12-23,Jeddah,1,In-Store Signup
+C00447,2026-03-01,Makkah,0,Social Media
+C00448,2024-04-18,Riyadh,0,Organic
+C00449,2025-02-18,Makkah,1,Paid Search
+C00450,2024-01-02,Makkah,1,Social Media
+C00451,2023-07-15,Riyadh,0,Referral
+C00452,2023-11-27,Jeddah,1,Referral
+C00453,2024-10-29,Riyadh,0,Organic
+C00454,2025-06-25,Jeddah,1,In-Store Signup
+C00455,2024-01-12,Jeddah,1,Organic
+C00456,2026-07-10,Jeddah,1,In-Store Signup
+C00457,2023-07-09,Jeddah,0,Referral
+C00458,2024-02-14,Riyadh,0,In-Store Signup
+C00459,2023-02-15,Jeddah,0,In-Store Signup
+C00460,2023-11-10,Riyadh,1,Paid Search
+C00461,2026-01-25,Jeddah,1,Referral
+C00462,2025-08-15,Makkah,0,Paid Search
+C00463,2024-10-17,Jeddah,1,Referral
+C00464,2024-08-31,Jeddah,0,Referral
+C00465,2025-07-25,Jeddah,1,In-Store Signup
+C00466,2024-10-31,Jeddah,1,Organic
+C00467,2023-05-20,Makkah,1,Organic
+C00468,2024-07-18,Makkah,0,Referral
+C00469,2025-03-24,Riyadh,0,Social Media
+C00470,2023-04-09,Riyadh,0,In-Store Signup
+C00471,2024-05-17,Jeddah,1,Paid Search
+C00472,2024-07-01,Riyadh,0,Referral
+C00473,2024-10-16,Jeddah,1,Referral
+C00474,2023-10-03,Riyadh,1,Referral
+C00475,2023-02-23,Riyadh,0,In-Store Signup
+C00476,2025-02-10,Makkah,1,In-Store Signup
+C00477,2025-10-25,Riyadh,1,In-Store Signup
+C00478,2023-12-07,Makkah,1,In-Store Signup
+C00479,2024-09-26,Jeddah,0,In-Store Signup
+C00480,2024-02-03,Jeddah,1,In-Store Signup
+C00481,2024-09-06,Jeddah,0,Paid Search
+C00482,2025-02-10,Riyadh,0,Organic
+C00483,2025-03-29,Riyadh,1,Organic
+C00484,2024-10-31,Jeddah,1,Organic
+C00485,2024-12-29,Riyadh,0,Referral
+C00486,2023-06-06,Riyadh,1,Paid Search
+C00487,2024-10-04,Makkah,1,In-Store Signup
+C00488,2026-03-18,Makkah,1,Referral
+C00489,2024-03-27,Makkah,1,In-Store Signup
+C00490,2025-12-30,Jeddah,0,Referral
+C00491,2024-06-24,Jeddah,0,In-Store Signup
+C00492,2024-04-12,Riyadh,0,Social Media
+C00493,2025-10-13,Riyadh,1,Referral
+C00494,2023-11-23,Makkah,1,Organic
+C00495,2026-07-28,Riyadh,1,Organic
+C00496,2023-06-16,Jeddah,1,Referral
+C00497,2024-05-16,Jeddah,1,Referral
+C00498,2023-03-07,Makkah,0,Social Media
+C00499,2026-03-06,Riyadh,0,In-Store Signup
+C00500,2025-11-19,Jeddah,1,In-Store Signup
+C00501,2025-08-09,Riyadh,1,Social Media
+C00502,2023-11-13,Jeddah,1,Organic
+C00503,2024-07-30,Riyadh,0,Referral
+C00504,2025-09-04,Riyadh,1,In-Store Signup
+C00505,2023-11-05,Riyadh,1,Organic
+C00506,2024-06-03,Jeddah,1,Organic
+C00507,2023-08-29,Jeddah,1,Social Media
+C00508,2023-04-26,Makkah,1,Social Media
+C00509,2025-06-29,Riyadh,0,Social Media
+C00510,2024-09-27,Riyadh,1,Organic
+C00511,2025-09-14,Jeddah,1,Referral
+C00512,2023-06-30,Makkah,1,Paid Search
+C00513,2026-05-23,Jeddah,1,In-Store Signup
+C00514,2025-06-21,Riyadh,0,Organic
+C00515,2025-03-09,Jeddah,0,In-Store Signup
+C00516,2025-04-13,Riyadh,1,In-Store Signup
+C00517,2024-06-21,Jeddah,0,Social Media
+C00518,2023-08-19,Makkah,1,Social Media
+C00519,2024-02-18,Jeddah,1,Paid Search
+C00520,2023-01-21,Jeddah,1,Paid Search
+C00521,2025-02-14,Jeddah,0,Social Media
+C00522,2024-07-11,Jeddah,0,Referral
+C00523,2024-03-21,Riyadh,0,Paid Search
+C00524,2024-04-03,Jeddah,1,Organic
+C00525,2026-06-05,Jeddah,1,Organic
+C00526,2023-10-16,Makkah,0,Paid Search
+C00527,2026-07-25,Riyadh,1,Social Media
+C00528,2024-07-22,Makkah,1,Organic
+C00529,2025-02-21,Riyadh,0,Organic
+C00530,2023-12-03,Makkah,0,Referral
+C00531,2025-09-01,Riyadh,0,Paid Search
+C00532,2024-12-13,Jeddah,0,In-Store Signup
+C00533,2026-05-04,Riyadh,1,Organic
+C00534,2023-01-27,Jeddah,1,Organic
+C00535,2023-03-31,Riyadh,0,Social Media
+C00536,2026-05-10,Jeddah,1,In-Store Signup
+C00537,2024-01-05,Jeddah,1,Organic
+C00538,2025-02-22,Riyadh,1,In-Store Signup
+C00539,2023-12-09,Makkah,1,In-Store Signup
+C00540,2024-11-19,Jeddah,0,Organic
+C00541,2025-12-31,Makkah,0,Referral
+C00542,2024-04-30,Riyadh,1,Paid Search
+C00543,2023-08-01,Riyadh,1,Organic
+C00544,2025-05-12,Jeddah,1,Organic
+C00545,2023-11-18,Riyadh,0,Paid Search
+C00546,2024-05-29,Riyadh,1,Paid Search
+C00547,2025-07-10,Riyadh,1,Referral
+C00548,2024-07-28,Makkah,1,Social Media
+C00549,2024-12-24,Makkah,0,Referral
+C00550,2026-01-17,Makkah,1,Social Media
+C00551,2023-11-08,Jeddah,1,In-Store Signup
+C00552,2023-08-20,Jeddah,1,Social Media
+C00553,2024-03-13,Riyadh,1,Organic
+C00554,2026-03-01,Jeddah,0,Social Media
+C00555,2026-07-03,Jeddah,1,Social Media
+C00556,2024-02-19,Riyadh,1,Organic
+C00557,2023-07-23,Jeddah,1,Social Media
+C00558,2023-01-08,Jeddah,1,Organic
+C00559,2023-03-26,Riyadh,1,Paid Search
+C00560,2024-06-03,Jeddah,0,Referral
+C00561,2026-05-18,Riyadh,1,Social Media
+C00562,2023-06-02,Makkah,1,In-Store Signup
+C00563,2026-06-25,Jeddah,1,Referral
+C00564,2025-12-05,Makkah,1,Social Media
+C00565,2023-06-04,Jeddah,1,Referral
+C00566,2024-07-01,Makkah,1,Referral
+C00567,2025-12-02,Jeddah,1,Referral
+C00568,2026-01-16,Jeddah,1,Organic
+C00569,2023-03-03,Riyadh,1,Organic
+C00570,2024-05-22,Riyadh,0,Paid Search
+C00571,2024-06-12,Jeddah,0,Paid Search
+C00572,2026-07-31,Makkah,1,Referral
+C00573,2023-05-28,Riyadh,1,Organic
+C00574,2023-04-04,Riyadh,0,Paid Search
+C00575,2025-10-25,Riyadh,1,Referral
+C00576,2024-12-31,Riyadh,1,In-Store Signup
+C00577,2024-04-03,Riyadh,1,Paid Search
+C00578,2024-02-22,Riyadh,1,Paid Search
+C00579,2023-03-05,Jeddah,0,Referral
+C00580,2023-08-16,Makkah,1,Paid Search
+C00581,2024-06-23,Makkah,1,Organic
+C00582,2023-10-26,Jeddah,0,In-Store Signup
+C00583,2026-07-02,Jeddah,1,In-Store Signup
+C00584,2023-11-19,Makkah,1,Social Media
+C00585,2024-02-24,Riyadh,1,In-Store Signup
+C00586,2024-05-02,Makkah,0,Paid Search
+C00587,2026-06-12,Makkah,0,In-Store Signup
+C00588,2025-10-08,Riyadh,1,Paid Search
+C00589,2023-10-10,Makkah,1,Referral
+C00590,2023-06-09,Riyadh,1,In-Store Signup
+C00591,2026-06-22,Makkah,1,Social Media
+C00592,2026-02-22,Jeddah,1,Organic
+C00593,2023-07-16,Jeddah,0,In-Store Signup
+C00594,2024-03-03,Riyadh,0,In-Store Signup
+C00595,2023-05-26,Riyadh,1,Referral
+C00596,2025-05-07,Jeddah,1,Social Media
+C00597,2025-08-01,Jeddah,0,Social Media
+C00598,2023-09-28,Riyadh,1,In-Store Signup
+C00599,2024-01-05,Makkah,1,In-Store Signup
+C00600,2024-09-01,Jeddah,0,Social Media
+C00601,2023-08-13,Jeddah,1,Organic
+C00602,2024-02-12,Jeddah,0,In-Store Signup
+C00603,2024-01-29,Jeddah,0,In-Store Signup
+C00604,2023-06-29,Riyadh,1,Paid Search
+C00605,2025-11-02,Jeddah,1,Paid Search
+C00606,2023-11-30,Riyadh,1,Social Media
+C00607,2023-08-23,Riyadh,0,Paid Search
+C00608,2025-11-22,Riyadh,1,In-Store Signup
+C00609,2026-07-22,Jeddah,0,In-Store Signup
+C00610,2026-05-13,Makkah,1,Referral
+C00611,2025-01-03,Makkah,1,In-Store Signup
+C00612,2024-06-27,Jeddah,1,Social Media
+C00613,2023-05-09,Riyadh,1,Social Media
+C00614,2023-04-21,Makkah,1,Paid Search
+C00615,2025-06-14,Riyadh,1,Organic
+C00616,2026-04-11,Riyadh,1,Organic
+C00617,2023-07-12,Makkah,0,Paid Search
+C00618,2023-03-03,Jeddah,1,In-Store Signup
+C00619,2024-10-10,Makkah,1,Social Media
+C00620,2024-06-09,Riyadh,0,Organic
+C00621,2025-02-28,Jeddah,1,Referral
+C00622,2023-07-16,Jeddah,1,In-Store Signup
+C00623,2023-12-01,Riyadh,1,Referral
+C00624,2025-02-01,Makkah,0,Social Media
+C00625,2024-01-21,Makkah,1,Organic
+C00626,2024-12-03,Riyadh,0,In-Store Signup
+C00627,2024-01-27,Jeddah,0,Paid Search
+C00628,2023-05-27,Riyadh,1,In-Store Signup
+C00629,2026-06-19,Makkah,0,Referral
+C00630,2023-07-17,Jeddah,1,Referral
+C00631,2023-06-09,Riyadh,1,Organic
+C00632,2025-07-02,Jeddah,0,Social Media
+C00633,2024-04-09,Riyadh,1,Referral
+C00634,2024-05-01,Makkah,0,Organic
+C00635,2025-06-04,Jeddah,1,Referral
+C00636,2025-08-03,Jeddah,0,Organic
+C00637,2025-04-30,Riyadh,1,Referral
+C00638,2024-08-09,Riyadh,1,In-Store Signup
+C00639,2025-06-10,Jeddah,0,Referral
+C00640,2024-06-28,Riyadh,1,In-Store Signup
+C00641,2023-02-02,Riyadh,1,Referral
+C00642,2025-04-03,Riyadh,1,In-Store Signup
+C00643,2024-09-11,Riyadh,1,Organic
+C00644,2025-02-17,Riyadh,1,Paid Search
+C00645,2025-07-04,Jeddah,1,In-Store Signup
+C00646,2024-01-02,Jeddah,1,Organic
+C00647,2026-04-23,Riyadh,0,Referral
+C00648,2024-04-21,Makkah,0,In-Store Signup
+C00649,2025-04-15,Riyadh,1,In-Store Signup
+C00650,2024-05-26,Jeddah,0,Organic
+C00651,2023-09-25,Makkah,1,Referral
+C00652,2023-05-29,Jeddah,1,Paid Search
+C00653,2026-04-28,Jeddah,1,Organic
+C00654,2023-02-12,Jeddah,1,Social Media
+C00655,2024-02-18,Makkah,0,Social Media
+C00656,2026-04-19,Riyadh,1,Social Media
+C00657,2024-05-27,Jeddah,1,In-Store Signup
+C00658,2023-02-09,Jeddah,1,Organic
+C00659,2025-02-26,Jeddah,1,In-Store Signup
+C00660,2023-05-05,Makkah,1,Referral
+C00661,2024-10-31,Jeddah,1,Organic
+C00662,2025-10-22,Riyadh,0,In-Store Signup
+C00663,2024-07-20,Riyadh,1,Organic
+C00664,2024-11-18,Jeddah,0,Organic
+C00665,2025-02-13,Jeddah,1,Social Media
+C00666,2024-04-25,Makkah,1,Social Media
+C00667,2023-05-11,Jeddah,1,Social Media
+C00668,2026-05-23,Makkah,0,Social Media
+C00669,2024-07-21,Riyadh,1,Social Media
+C00670,2024-03-07,Jeddah,0,In-Store Signup
+C00671,2024-08-27,Jeddah,1,Organic
+C00672,2023-09-01,Makkah,0,Organic
+C00673,2023-12-19,Jeddah,0,Social Media
+C00674,2023-12-01,Jeddah,1,Organic
+C00675,2024-07-21,Jeddah,1,Paid Search
+C00676,2025-11-26,Jeddah,0,Social Media
+C00677,2026-03-29,Jeddah,0,Social Media
+C00678,2024-09-08,Riyadh,0,Referral
+C00679,2025-02-13,Jeddah,1,Social Media
+C00680,2025-06-01,Riyadh,1,In-Store Signup
+C00681,2024-03-05,Makkah,1,Organic
+C00682,2025-11-25,Riyadh,0,Organic
+C00683,2023-05-07,Riyadh,0,Organic
+C00684,2025-11-18,Riyadh,0,Paid Search
+C00685,2024-11-21,Riyadh,0,Referral
+C00686,2024-10-05,Riyadh,1,Paid Search
+C00687,2026-01-03,Jeddah,1,In-Store Signup
+C00688,2025-12-29,Jeddah,1,Paid Search
+C00689,2025-09-21,Jeddah,1,Organic
+C00690,2023-06-27,Jeddah,1,Social Media
+C00691,2023-10-03,Riyadh,0,Paid Search
+C00692,2026-08-13,Riyadh,1,Social Media
+C00693,2025-01-27,Jeddah,0,In-Store Signup
+C00694,2026-06-14,Jeddah,0,Social Media
+C00695,2025-06-24,Makkah,1,Social Media
+C00696,2026-04-29,Riyadh,0,In-Store Signup
+C00697,2026-04-13,Makkah,1,Paid Search
+C00698,2023-03-27,Jeddah,0,In-Store Signup
+C00699,2026-04-24,Riyadh,0,Organic
+C00700,2025-12-05,Riyadh,0,Referral
+C00701,2023-01-25,Jeddah,1,Social Media
+C00702,2025-07-25,Makkah,1,Organic
+C00703,2025-09-19,Riyadh,0,Referral
+C00704,2026-06-19,Jeddah,1,Organic
+C00705,2025-08-27,Riyadh,0,Social Media
+C00706,2024-08-18,Riyadh,0,Referral
+C00707,2024-08-25,Riyadh,0,Social Media
+C00708,2025-10-19,Riyadh,0,Organic
+C00709,2023-07-31,Makkah,1,Social Media
+C00710,2026-06-02,Riyadh,1,Organic
+C00711,2026-01-10,Riyadh,1,In-Store Signup
+C00712,2024-03-21,Riyadh,0,Organic
+C00713,2023-05-25,Makkah,0,Referral
+C00714,2025-12-18,Riyadh,1,Referral
+C00715,2023-10-05,Jeddah,1,In-Store Signup
+C00716,2023-10-04,Makkah,1,In-Store Signup
+C00717,2025-09-09,Jeddah,1,Organic
+C00718,2023-04-18,Jeddah,0,Organic
+C00719,2024-01-12,Riyadh,1,In-Store Signup
+C00720,2024-03-31,Jeddah,1,Social Media
+C00721,2024-07-14,Jeddah,0,Organic
+C00722,2024-01-02,Jeddah,1,Organic
+C00723,2023-04-14,Riyadh,1,Organic
+C00724,2023-08-09,Riyadh,0,In-Store Signup
+C00725,2026-02-04,Jeddah,0,In-Store Signup
+C00726,2025-08-01,Jeddah,1,In-Store Signup
+C00727,2023-07-15,Jeddah,1,Paid Search
+C00728,2024-09-09,Riyadh,0,Social Media
+C00729,2023-01-17,Jeddah,0,Referral
+C00730,2025-12-09,Makkah,1,Referral
+C00731,2023-01-30,Makkah,1,Referral
+C00732,2024-04-02,Jeddah,0,In-Store Signup
+C00733,2026-01-29,Jeddah,1,Organic
+C00734,2026-05-16,Jeddah,1,Paid Search
+C00735,2026-07-31,Jeddah,1,Organic
+C00736,2025-04-02,Jeddah,1,Social Media
+C00737,2024-07-27,Jeddah,1,Referral
+C00738,2026-03-09,Riyadh,0,Referral
+C00739,2023-03-08,Jeddah,0,In-Store Signup
+C00740,2025-06-12,Riyadh,0,In-Store Signup
+C00741,2026-06-08,Jeddah,1,Paid Search
+C00742,2024-08-01,Jeddah,1,In-Store Signup
+C00743,2026-06-16,Riyadh,0,Social Media
+C00744,2024-11-06,Riyadh,1,In-Store Signup
+C00745,2023-06-10,Makkah,0,Social Media
+C00746,2023-05-07,Makkah,1,Referral
+C00747,2023-07-04,Jeddah,0,In-Store Signup
+C00748,2024-04-02,Makkah,0,In-Store Signup
+C00749,2023-04-03,Jeddah,0,Social Media
+C00750,2023-10-08,Jeddah,1,In-Store Signup
+C00751,2026-06-14,Jeddah,0,Referral
+C00752,2023-06-08,Riyadh,0,Social Media
+C00753,2025-10-22,Jeddah,0,Organic
+C00754,2026-08-04,Jeddah,1,In-Store Signup
+C00755,2025-07-06,Jeddah,1,Organic
+C00756,2025-10-24,Makkah,1,Paid Search
+C00757,2023-03-14,Makkah,1,In-Store Signup
+C00758,2026-06-28,Makkah,1,Organic
+C00759,2024-01-15,Jeddah,1,Paid Search
+C00760,2026-05-04,Jeddah,1,In-Store Signup
+C00761,2024-12-02,Riyadh,1,Referral
+C00762,2024-02-19,Makkah,1,In-Store Signup
+C00763,2026-04-02,Makkah,1,Referral
+C00764,2025-07-06,Riyadh,1,Referral
+C00765,2026-03-14,Jeddah,1,In-Store Signup
+C00766,2026-03-10,Makkah,1,Social Media
+C00767,2025-08-15,Riyadh,1,Referral
+C00768,2024-05-24,Jeddah,0,Referral
+C00769,2023-01-24,Jeddah,1,Organic
+C00770,2025-10-16,Riyadh,1,In-Store Signup
+C00771,2025-10-17,Jeddah,0,In-Store Signup
+C00772,2026-03-26,Riyadh,1,Social Media
+C00773,2025-10-14,Jeddah,1,Organic
+C00774,2023-08-30,Makkah,0,In-Store Signup
+C00775,2024-04-08,Jeddah,1,Referral
+C00776,2026-02-04,Jeddah,1,Organic
+C00777,2023-02-06,Riyadh,0,Social Media
+C00778,2026-06-11,Riyadh,0,Referral
+C00779,2025-05-08,Riyadh,0,Organic
+C00780,2025-05-15,Jeddah,1,Social Media
+C00781,2024-01-07,Riyadh,0,Social Media
+C00782,2024-05-23,Riyadh,1,In-Store Signup
+C00783,2024-09-20,Makkah,1,Social Media
+C00784,2026-04-24,Jeddah,1,Organic
+C00785,2023-03-16,Makkah,1,Referral
+C00786,2025-10-22,Riyadh,1,Referral
+C00787,2026-07-10,Makkah,0,In-Store Signup
+C00788,2024-09-24,Riyadh,1,Organic
+C00789,2024-10-05,Makkah,1,Referral
+C00790,2025-03-22,Riyadh,1,Referral
+C00791,2023-06-28,Riyadh,0,In-Store Signup
+C00792,2023-12-11,Jeddah,1,Paid Search
+C00793,2025-04-13,Riyadh,0,Paid Search
+C00794,2026-03-15,Riyadh,1,Social Media
+C00795,2026-07-27,Riyadh,1,Referral
+C00796,2023-03-27,Jeddah,1,Paid Search
+C00797,2026-01-18,Jeddah,1,In-Store Signup
+C00798,2025-02-11,Makkah,1,Social Media
+C00799,2025-03-12,Jeddah,0,Referral
+C00800,2025-01-12,Riyadh,0,Referral
+C00801,2025-02-17,Riyadh,1,Social Media
+C00802,2024-03-30,Riyadh,0,Social Media
+C00803,2024-04-09,Makkah,1,Referral
+C00804,2026-07-04,Jeddah,1,Organic
+C00805,2026-02-02,Riyadh,1,Referral
+C00806,2024-05-27,Riyadh,0,In-Store Signup
+C00807,2026-05-16,Jeddah,1,Organic
+C00808,2023-07-25,Jeddah,1,In-Store Signup
+C00809,2025-07-10,Jeddah,0,Referral
+C00810,2024-12-07,Jeddah,1,Referral
+C00811,2026-05-25,Riyadh,0,Social Media
+C00812,2023-04-05,Jeddah,0,Organic
+C00813,2025-12-03,Makkah,1,Organic
+C00814,2024-09-13,Makkah,1,Referral
+C00815,2025-04-09,Jeddah,1,Social Media
+C00816,2025-10-19,Makkah,0,Social Media
+C00817,2025-01-26,Jeddah,1,Referral
+C00818,2024-03-15,Riyadh,1,Referral
+C00819,2023-10-22,Riyadh,1,In-Store Signup
+C00820,2023-07-10,Jeddah,1,Referral
+C00821,2025-08-22,Riyadh,1,In-Store Signup
+C00822,2024-04-28,Jeddah,1,In-Store Signup
+C00823,2025-04-19,Riyadh,0,Organic
+C00824,2025-01-05,Jeddah,1,Paid Search
+C00825,2024-11-21,Makkah,0,Paid Search
+C00826,2024-05-18,Riyadh,1,Referral
+C00827,2023-04-13,Riyadh,0,In-Store Signup
+C00828,2023-06-15,Riyadh,1,Organic
+C00829,2024-01-14,Riyadh,0,Referral
+C00830,2026-01-23,Riyadh,1,Social Media
+C00831,2024-11-24,Makkah,0,Social Media
+C00832,2025-12-22,Jeddah,0,Social Media
+C00833,2024-12-03,Jeddah,0,In-Store Signup
+C00834,2023-11-30,Makkah,1,Social Media
+C00835,2024-02-26,Riyadh,1,Organic
+C00836,2023-02-12,Makkah,1,In-Store Signup
+C00837,2025-01-16,Riyadh,0,Referral
+C00838,2023-11-30,Jeddah,1,Social Media
+C00839,2025-12-17,Riyadh,1,Referral
+C00840,2024-10-15,Riyadh,0,In-Store Signup
+C00841,2024-04-25,Jeddah,1,In-Store Signup
+C00842,2025-10-15,Jeddah,1,Paid Search
+C00843,2023-03-16,Riyadh,1,Referral
+C00844,2025-10-06,Jeddah,1,In-Store Signup
+C00845,2025-01-27,Riyadh,1,In-Store Signup
+C00846,2024-10-05,Jeddah,1,Social Media
+C00847,2026-05-26,Jeddah,1,Organic
+C00848,2025-02-01,Riyadh,1,Social Media
+C00849,2025-04-07,Makkah,1,Referral
+C00850,2023-05-25,Makkah,1,Social Media
+C00851,2024-08-17,Makkah,1,Organic
+C00852,2025-12-28,Jeddah,0,Referral
+C00853,2023-07-14,Jeddah,1,In-Store Signup
+C00854,2023-09-21,Makkah,1,Organic
+C00855,2023-09-20,Makkah,0,In-Store Signup
+C00856,2025-01-28,Jeddah,0,In-Store Signup
+C00857,2025-01-16,Riyadh,1,In-Store Signup
+C00858,2026-01-25,Jeddah,0,Paid Search
+C00859,2024-04-12,Jeddah,1,Paid Search
+C00860,2025-09-30,Makkah,1,In-Store Signup
+C00861,2025-12-28,Jeddah,0,In-Store Signup
+C00862,2025-04-06,Jeddah,1,In-Store Signup
+C00863,2026-06-23,Makkah,1,Referral
+C00864,2023-04-06,Makkah,1,Social Media
+C00865,2026-04-09,Jeddah,0,Referral
+C00866,2025-10-17,Jeddah,1,Social Media
+C00867,2025-10-21,Jeddah,0,Social Media
+C00868,2024-02-26,Makkah,1,In-Store Signup
+C00869,2023-10-07,Jeddah,1,Social Media
+C00870,2024-01-16,Jeddah,0,Referral
+C00871,2023-09-09,Makkah,1,Social Media
+C00872,2026-01-04,Riyadh,0,Organic
+C00873,2025-03-31,Jeddah,1,Organic
+C00874,2023-06-11,Jeddah,0,In-Store Signup
+C00875,2023-01-31,Riyadh,1,In-Store Signup
+C00876,2024-01-16,Jeddah,0,Organic
+C00877,2024-10-20,Jeddah,0,Referral
+C00878,2026-04-27,Jeddah,1,Referral
+C00879,2023-10-14,Riyadh,0,Social Media
+C00880,2024-11-19,Riyadh,1,Referral
+C00881,2025-09-25,Jeddah,0,Social Media
+C00882,2024-04-26,Riyadh,0,Social Media
+C00883,2023-05-24,Riyadh,1,Social Media
+C00884,2025-12-05,Makkah,1,Social Media
+C00885,2026-03-06,Riyadh,0,Referral
+C00886,2025-05-28,Jeddah,0,Referral
+C00887,2026-07-03,Jeddah,0,Organic
+C00888,2026-03-30,Jeddah,1,In-Store Signup
+C00889,2025-10-05,Jeddah,1,In-Store Signup
+C00890,2025-04-29,Riyadh,1,Paid Search
+C00891,2025-06-26,Jeddah,0,Organic
+C00892,2025-02-05,Jeddah,0,Paid Search
+C00893,2025-11-08,Riyadh,0,Paid Search
+C00894,2026-02-14,Jeddah,0,Social Media
+C00895,2023-06-11,Jeddah,1,Organic
+C00896,2025-06-04,Makkah,0,Social Media
+C00897,2023-12-06,Riyadh,1,In-Store Signup
+C00898,2025-12-01,Jeddah,1,Referral
+C00899,2025-04-08,Jeddah,0,Referral
+C00900,2025-03-31,Riyadh,1,In-Store Signup
+C00901,2025-03-02,Makkah,0,Organic
+C00902,2026-04-27,Riyadh,1,Referral
+C00903,2023-11-12,Riyadh,1,Referral
+C00904,2023-12-26,Riyadh,0,Social Media
+C00905,2026-04-04,Jeddah,1,Referral
+C00906,2024-09-05,Riyadh,0,In-Store Signup
+C00907,2026-07-13,Riyadh,0,Organic
+C00908,2024-04-30,Riyadh,1,In-Store Signup
+C00909,2025-08-19,Riyadh,1,Referral
+C00910,2023-09-23,Makkah,1,Social Media
+C00911,2024-07-02,Makkah,1,Social Media
+C00912,2024-10-06,Riyadh,1,Organic
+C00913,2025-11-22,Riyadh,0,Organic
+C00914,2025-06-01,Makkah,1,Organic
+C00915,2023-05-15,Riyadh,0,Organic
+C00916,2024-05-25,Jeddah,1,Referral
+C00917,2026-01-15,Jeddah,1,Social Media
+C00918,2026-04-15,Jeddah,1,Referral
+C00919,2024-09-23,Jeddah,1,Organic
+C00920,2024-06-25,Makkah,0,In-Store Signup
+C00921,2025-04-27,Jeddah,0,Social Media
+C00922,2023-04-20,Makkah,0,Social Media
+C00923,2024-05-19,Makkah,0,Organic
+C00924,2025-10-14,Riyadh,0,Social Media
+C00925,2023-02-13,Riyadh,0,Paid Search
+C00926,2023-08-20,Makkah,0,In-Store Signup
+C00927,2025-02-07,Makkah,0,Organic
+C00928,2024-11-14,Jeddah,0,In-Store Signup
+C00929,2024-10-13,Riyadh,1,In-Store Signup
+C00930,2023-06-29,Jeddah,1,Social Media
+C00931,2023-02-12,Riyadh,1,Paid Search
+C00932,2023-07-31,Riyadh,1,In-Store Signup
+C00933,2026-04-22,Jeddah,0,Organic
+C00934,2024-08-08,Jeddah,1,In-Store Signup
+C00935,2024-10-07,Jeddah,1,Organic
+C00936,2023-03-12,Jeddah,0,Organic
+C00937,2024-08-11,Makkah,1,In-Store Signup
+C00938,2024-05-29,Riyadh,0,Organic
+C00939,2024-01-02,Riyadh,0,Referral
+C00940,2025-12-09,Jeddah,1,In-Store Signup
+C00941,2024-07-30,Makkah,1,Paid Search
+C00942,2024-09-07,Jeddah,1,In-Store Signup
+C00943,2025-05-27,Jeddah,0,Paid Search
+C00944,2023-09-24,Makkah,1,Referral
+C00945,2025-11-02,Riyadh,1,In-Store Signup
+C00946,2024-09-26,Makkah,0,Referral
+C00947,2024-01-21,Riyadh,1,Paid Search
+C00948,2024-06-02,Jeddah,0,Referral
+C00949,2023-10-23,Riyadh,0,Social Media
+C00950,2026-02-03,Riyadh,1,In-Store Signup
+C00951,2026-04-24,Jeddah,1,Organic
+C00952,2024-04-19,Jeddah,1,Organic
+C00953,2026-06-05,Riyadh,1,In-Store Signup
+C00954,2024-01-26,Riyadh,1,In-Store Signup
+C00955,2023-01-16,Jeddah,1,In-Store Signup
+C00956,2023-11-12,Jeddah,1,In-Store Signup
+C00957,2023-08-12,Makkah,1,Organic
+C00958,2025-01-13,Riyadh,1,In-Store Signup
+C00959,2024-01-27,Jeddah,1,Organic
+C00960,2026-05-24,Jeddah,0,Organic
+C00961,2024-03-10,Jeddah,1,In-Store Signup
+C00962,2023-10-21,Makkah,1,In-Store Signup
+C00963,2024-02-20,Jeddah,0,Social Media
+C00964,2023-12-10,Jeddah,0,Social Media
+C00965,2023-05-21,Jeddah,0,Social Media
+C00966,2025-03-14,Riyadh,0,In-Store Signup
+C00967,2026-05-11,Jeddah,0,Social Media
+C00968,2026-05-27,Jeddah,1,Social Media
+C00969,2023-12-24,Jeddah,1,In-Store Signup
+C00970,2023-12-01,Riyadh,0,In-Store Signup
+C00971,2025-08-16,Jeddah,1,Social Media
+C00972,2023-11-22,Makkah,0,Referral
+C00973,2024-03-17,Makkah,0,Social Media
+C00974,2026-03-23,Riyadh,0,In-Store Signup
+C00975,2023-09-21,Jeddah,1,Organic
+C00976,2024-04-01,Jeddah,1,Paid Search
+C00977,2025-01-16,Riyadh,1,Referral
+C00978,2023-05-30,Jeddah,1,Organic
+C00979,2023-12-25,Makkah,1,Referral
+C00980,2024-05-16,Riyadh,1,Organic
+C00981,2025-11-03,Riyadh,1,Social Media
+C00982,2025-04-11,Riyadh,1,Organic
+C00983,2023-10-02,Riyadh,0,In-Store Signup
+C00984,2025-05-26,Makkah,1,Organic
+C00985,2024-10-16,Jeddah,1,Social Media
+C00986,2023-02-16,Makkah,1,Organic
+C00987,2024-02-15,Riyadh,1,Referral
+C00988,2026-06-21,Jeddah,0,In-Store Signup
+C00989,2023-05-10,Makkah,1,Paid Search
+C00990,2026-02-28,Makkah,1,In-Store Signup
+C00991,2023-11-13,Riyadh,1,Social Media
+C00992,2024-08-07,Riyadh,0,Social Media
+C00993,2025-08-19,Riyadh,1,Social Media
+C00994,2026-01-01,Riyadh,1,Organic
+C00995,2023-08-17,Jeddah,0,Organic
+C00996,2024-04-30,Jeddah,0,In-Store Signup
+C00997,2026-04-09,Jeddah,1,Social Media
+C00998,2023-08-07,Makkah,1,In-Store Signup
+C00999,2023-03-07,Jeddah,0,Organic
+C01000,2025-06-14,Makkah,0,In-Store Signup
+C01001,2023-10-04,Jeddah,1,In-Store Signup
+C01002,2026-07-10,Jeddah,1,Organic
+C01003,2025-06-17,Riyadh,1,Organic
+C01004,2023-08-22,Riyadh,1,Referral
+C01005,2024-11-05,Jeddah,1,Social Media
+C01006,2023-05-31,Jeddah,0,In-Store Signup
+C01007,2023-07-14,Jeddah,1,In-Store Signup
+C01008,2024-07-15,Riyadh,1,Social Media
+C01009,2025-02-02,Makkah,0,Referral
+C01010,2023-09-22,Makkah,0,In-Store Signup
+C01011,2023-03-28,Jeddah,1,Social Media
+C01012,2023-01-25,Jeddah,0,Social Media
+C01013,2026-04-13,Jeddah,1,Organic
+C01014,2023-12-17,Riyadh,1,Organic
+C01015,2026-06-22,Riyadh,1,Social Media
+C01016,2024-01-03,Riyadh,1,Social Media
+C01017,2026-03-27,Jeddah,1,Organic
+C01018,2025-09-24,Makkah,1,Social Media
+C01019,2023-05-02,Jeddah,1,Organic
+C01020,2026-01-22,Jeddah,1,Social Media
+C01021,2023-08-12,Jeddah,0,In-Store Signup
+C01022,2023-03-13,Riyadh,0,In-Store Signup
+C01023,2026-03-03,Jeddah,0,Paid Search
+C01024,2025-01-19,Riyadh,1,Social Media
+C01025,2024-02-26,Makkah,1,Referral
+C01026,2023-02-05,Jeddah,1,Social Media
+C01027,2026-07-26,Riyadh,0,Social Media
+C01028,2025-07-26,Jeddah,0,Organic
+C01029,2024-07-27,Jeddah,1,Social Media
+C01030,2023-09-18,Riyadh,0,Paid Search
+C01031,2025-11-28,Jeddah,1,Referral
+C01032,2024-09-19,Jeddah,1,Organic
+C01033,2024-01-09,Riyadh,1,In-Store Signup
+C01034,2024-06-29,Riyadh,0,Referral
+C01035,2025-06-21,Riyadh,1,Social Media
+C01036,2025-01-20,Riyadh,0,Referral
+C01037,2024-01-15,Riyadh,1,Referral
+C01038,2024-02-15,Jeddah,1,Referral
+C01039,2025-07-02,Jeddah,1,In-Store Signup
+C01040,2024-12-02,Makkah,0,In-Store Signup
+C01041,2023-02-05,Riyadh,1,Organic
+C01042,2024-05-12,Makkah,0,Social Media
+C01043,2025-04-27,Riyadh,0,Social Media
+C01044,2024-07-08,Makkah,0,Referral
+C01045,2023-06-23,Makkah,0,Referral
+C01046,2023-03-30,Riyadh,0,In-Store Signup
+C01047,2023-10-24,Riyadh,0,Referral
+C01048,2024-02-21,Riyadh,1,Referral
+C01049,2024-12-03,Makkah,0,Social Media
+C01050,2026-07-20,Riyadh,1,In-Store Signup
+C01051,2023-04-27,Riyadh,1,Social Media
+C01052,2024-07-28,Jeddah,0,In-Store Signup
+C01053,2026-03-28,Riyadh,1,In-Store Signup
+C01054,2026-08-03,Riyadh,0,In-Store Signup
+C01055,2026-06-25,Makkah,1,In-Store Signup
+C01056,2025-07-12,Jeddah,1,In-Store Signup
+C01057,2024-07-27,Riyadh,0,In-Store Signup
+C01058,2025-09-16,Riyadh,0,In-Store Signup
+C01059,2026-01-25,Riyadh,0,Referral
+C01060,2024-04-06,Riyadh,1,Paid Search
+C01061,2026-07-29,Makkah,0,Paid Search
+C01062,2026-05-12,Riyadh,1,Social Media
+C01063,2026-05-14,Riyadh,1,Referral
+C01064,2026-01-09,Jeddah,1,Referral
+C01065,2024-01-19,Riyadh,1,In-Store Signup
+C01066,2023-09-22,Jeddah,1,Social Media
+C01067,2024-10-09,Makkah,1,Organic
+C01068,2026-05-09,Jeddah,0,Organic
+C01069,2026-06-03,Makkah,0,Social Media
+C01070,2024-07-07,Riyadh,1,Social Media
+C01071,2024-08-05,Jeddah,1,In-Store Signup
+C01072,2024-10-29,Riyadh,1,In-Store Signup
+C01073,2025-11-23,Jeddah,1,In-Store Signup
+C01074,2023-03-23,Jeddah,1,Paid Search
+C01075,2024-08-24,Jeddah,1,Social Media
+C01076,2026-06-06,Jeddah,0,In-Store Signup
+C01077,2025-12-09,Riyadh,1,Referral
+C01078,2024-02-16,Jeddah,1,Organic
+C01079,2023-04-23,Jeddah,1,Organic
+C01080,2025-01-23,Jeddah,1,In-Store Signup
+C01081,2026-03-18,Makkah,1,In-Store Signup
+C01082,2025-03-15,Jeddah,1,Social Media
+C01083,2024-08-17,Riyadh,1,Social Media
+C01084,2024-12-20,Riyadh,1,Social Media
+C01085,2025-04-18,Jeddah,1,Paid Search
+C01086,2024-07-28,Makkah,0,Organic
+C01087,2025-10-11,Makkah,1,In-Store Signup
+C01088,2026-06-14,Jeddah,1,Social Media
+C01089,2024-01-18,Jeddah,0,In-Store Signup
+C01090,2023-10-13,Makkah,0,Organic
+C01091,2024-04-04,Makkah,0,In-Store Signup
+C01092,2023-11-01,Jeddah,1,Referral
+C01093,2023-05-11,Jeddah,0,Referral
+C01094,2026-06-15,Jeddah,1,Paid Search
+C01095,2023-08-27,Jeddah,0,Organic
+C01096,2024-01-22,Jeddah,1,Paid Search
+C01097,2024-01-12,Riyadh,0,Social Media
+C01098,2023-10-29,Jeddah,0,In-Store Signup
+C01099,2024-03-02,Riyadh,0,Referral
+C01100,2025-10-28,Riyadh,0,Social Media
+C01101,2026-01-16,Jeddah,1,In-Store Signup
+C01102,2026-05-19,Makkah,0,Organic
+C01103,2026-04-14,Riyadh,0,In-Store Signup
+C01104,2024-12-29,Jeddah,1,In-Store Signup
+C01105,2026-05-06,Riyadh,1,Paid Search
+C01106,2023-03-02,Jeddah,1,Organic
+C01107,2024-07-13,Riyadh,1,Referral
+C01108,2023-05-29,Jeddah,0,In-Store Signup
+C01109,2023-09-21,Riyadh,1,Social Media
+C01110,2025-05-22,Riyadh,1,In-Store Signup
+C01111,2026-07-28,Makkah,1,Referral
+C01112,2024-03-02,Riyadh,1,Social Media
+C01113,2026-01-30,Makkah,0,Organic
+C01114,2025-11-16,Makkah,0,Social Media
+C01115,2025-03-12,Riyadh,1,Social Media
+C01116,2025-09-13,Riyadh,1,Referral
+C01117,2026-08-09,Riyadh,0,In-Store Signup
+C01118,2023-06-02,Jeddah,0,In-Store Signup
+C01119,2024-06-11,Jeddah,1,In-Store Signup
+C01120,2023-05-08,Jeddah,0,Referral
+C01121,2024-06-09,Riyadh,0,In-Store Signup
+C01122,2023-09-16,Jeddah,0,Social Media
+C01123,2024-12-18,Riyadh,1,In-Store Signup
+C01124,2025-12-08,Jeddah,0,Referral
+C01125,2023-07-12,Riyadh,0,Organic
+C01126,2024-08-08,Makkah,1,Organic
+C01127,2023-12-08,Makkah,1,In-Store Signup
+C01128,2024-03-27,Makkah,1,In-Store Signup
+C01129,2025-07-21,Makkah,1,In-Store Signup
+C01130,2023-09-14,Jeddah,1,Paid Search
+C01131,2026-05-25,Makkah,1,Social Media
+C01132,2026-04-19,Riyadh,0,Social Media
+C01133,2025-11-25,Riyadh,0,Social Media
+C01134,2025-02-26,Jeddah,0,Social Media
+C01135,2024-04-12,Makkah,0,Organic
+C01136,2023-04-30,Riyadh,0,Organic
+C01137,2026-02-06,Jeddah,0,Paid Search
+C01138,2023-04-28,Jeddah,1,Social Media
+C01139,2024-02-23,Jeddah,1,Paid Search
+C01140,2026-01-28,Makkah,1,Organic
+C01141,2025-09-06,Jeddah,1,Paid Search
+C01142,2023-10-19,Makkah,1,Referral
+C01143,2026-05-03,Jeddah,1,In-Store Signup
+C01144,2023-02-25,Riyadh,0,Referral
+C01145,2026-03-08,Jeddah,1,Social Media
+C01146,2026-07-13,Jeddah,0,Organic
+C01147,2024-08-14,Jeddah,1,In-Store Signup
+C01148,2025-09-15,Makkah,1,Organic
+C01149,2024-05-06,Jeddah,1,Social Media
+C01150,2026-06-18,Makkah,1,Paid Search
+C01151,2025-10-15,Jeddah,0,Paid Search
+C01152,2025-06-22,Riyadh,1,Organic
+C01153,2023-01-20,Jeddah,1,Organic
+C01154,2025-04-22,Jeddah,1,Social Media
+C01155,2025-04-09,Riyadh,0,Paid Search
+C01156,2023-08-07,Riyadh,1,Organic
+C01157,2024-02-09,Makkah,1,Organic
+C01158,2025-07-23,Riyadh,1,In-Store Signup
+C01159,2025-01-30,Riyadh,0,In-Store Signup
+C01160,2024-07-31,Riyadh,1,Referral
+C01161,2025-05-25,Makkah,1,Referral
+C01162,2024-02-12,Jeddah,1,Social Media
+C01163,2025-03-20,Jeddah,1,In-Store Signup
+C01164,2023-05-30,Riyadh,0,Social Media
+C01165,2023-10-17,Riyadh,0,Organic
+C01166,2024-05-29,Riyadh,1,Referral
+C01167,2023-10-29,Jeddah,1,Referral
+C01168,2023-11-17,Jeddah,1,Organic
+C01169,2024-01-30,Riyadh,1,Paid Search
+C01170,2025-09-15,Jeddah,1,Social Media
+C01171,2025-05-14,Riyadh,1,Social Media
+C01172,2024-12-02,Makkah,1,Organic
+C01173,2024-11-15,Jeddah,0,Paid Search
+C01174,2024-12-29,Jeddah,1,Referral
+C01175,2023-11-29,Makkah,1,Referral
+C01176,2026-01-14,Riyadh,1,Referral
+C01177,2025-09-02,Riyadh,1,In-Store Signup
+C01178,2026-05-22,Jeddah,1,Social Media
+C01179,2025-09-27,Riyadh,0,Organic
+C01180,2024-12-12,Makkah,0,Referral
+C01181,2024-09-15,Jeddah,1,Organic
+C01182,2025-09-30,Riyadh,0,In-Store Signup
+C01183,2025-05-24,Jeddah,0,In-Store Signup
+C01184,2023-05-07,Jeddah,1,Social Media
+C01185,2023-10-03,Riyadh,0,Referral
+C01186,2025-09-15,Makkah,0,Organic
+C01187,2026-05-03,Jeddah,0,In-Store Signup
+C01188,2025-10-31,Jeddah,0,In-Store Signup
+C01189,2023-03-23,Jeddah,1,In-Store Signup
+C01190,2024-04-07,Jeddah,1,In-Store Signup
+C01191,2023-02-19,Makkah,0,Referral
+C01192,2024-12-30,Jeddah,0,Organic
+C01193,2026-01-05,Riyadh,1,In-Store Signup
+C01194,2023-02-05,Riyadh,0,In-Store Signup
+C01195,2024-10-29,Makkah,0,Organic
+C01196,2023-11-03,Makkah,1,In-Store Signup
+C01197,2024-02-27,Riyadh,0,In-Store Signup
+C01198,2026-04-20,Riyadh,1,In-Store Signup
+C01199,2024-06-07,Jeddah,0,Organic
+C01200,2023-02-06,Makkah,0,Organic
+C01201,2023-06-08,Jeddah,1,Referral
+C01202,2024-12-30,Jeddah,1,Organic
+C01203,2023-08-20,Riyadh,1,Social Media
+C01204,2025-08-13,Riyadh,1,Paid Search
+C01205,2024-03-29,Riyadh,0,Organic
+C01206,2023-05-06,Riyadh,0,Organic
+C01207,2023-09-07,Makkah,1,Social Media
+C01208,2025-03-30,Riyadh,1,Organic
+C01209,2025-02-22,Riyadh,0,Organic
+C01210,2024-09-02,Jeddah,1,Referral
+C01211,2025-06-13,Makkah,1,In-Store Signup
+C01212,2023-01-01,Riyadh,1,In-Store Signup
+C01213,2024-12-14,Jeddah,1,Organic
+C01214,2024-11-05,Jeddah,1,Social Media
+C01215,2024-03-18,Jeddah,0,Paid Search
+C01216,2026-01-03,Riyadh,0,Social Media
+C01217,2025-10-23,Makkah,1,Social Media
+C01218,2023-04-12,Jeddah,1,In-Store Signup
+C01219,2026-01-02,Jeddah,0,Referral
+C01220,2023-09-14,Jeddah,0,Referral
+C01221,2025-09-17,Riyadh,1,Social Media
+C01222,2024-09-09,Riyadh,1,Social Media
+C01223,2026-02-02,Riyadh,0,Organic
+C01224,2025-09-20,Riyadh,1,Organic
+C01225,2025-06-10,Jeddah,1,Referral
+C01226,2024-01-01,Riyadh,1,Social Media
+C01227,2025-03-05,Jeddah,1,Social Media
+C01228,2025-04-26,Riyadh,1,Organic
+C01229,2023-01-01,Riyadh,1,Paid Search
+C01230,2025-08-14,Makkah,1,Social Media
+C01231,2024-11-28,Makkah,0,Referral
+C01232,2025-06-09,Riyadh,0,In-Store Signup
+C01233,2026-05-15,Makkah,1,Social Media
+C01234,2023-01-03,Riyadh,1,Referral
+C01235,2025-01-29,Makkah,1,Organic
+C01236,2024-08-26,Jeddah,1,In-Store Signup
+C01237,2023-09-06,Riyadh,1,Social Media
+C01238,2026-01-07,Makkah,1,Social Media
+C01239,2025-12-12,Jeddah,1,Paid Search
+C01240,2023-07-23,Jeddah,1,Organic
+C01241,2023-10-04,Riyadh,1,Social Media
+C01242,2026-04-13,Riyadh,1,Referral
+C01243,2023-11-19,Riyadh,1,Organic
+C01244,2025-06-20,Riyadh,1,Social Media
+C01245,2026-01-22,Makkah,1,In-Store Signup
+C01246,2023-04-14,Jeddah,1,Social Media
+C01247,2024-03-14,Jeddah,1,Referral
+C01248,2024-11-11,Makkah,1,In-Store Signup
+C01249,2024-04-16,Makkah,0,Organic
+C01250,2025-04-16,Makkah,1,Organic
+C01251,2024-11-16,Jeddah,1,Social Media
+C01252,2023-04-21,Riyadh,0,Referral
+C01253,2025-03-28,Makkah,1,Social Media
+C01254,2023-04-23,Jeddah,1,Social Media
+C01255,2026-04-22,Makkah,0,Organic
+C01256,2026-06-07,Riyadh,0,Organic
+C01257,2023-06-20,Jeddah,1,Social Media
+C01258,2025-06-26,Jeddah,0,In-Store Signup
+C01259,2026-01-26,Makkah,1,Referral
+C01260,2026-01-07,Jeddah,0,Organic
+C01261,2024-09-17,Jeddah,1,Referral
+C01262,2025-07-09,Riyadh,1,Organic
+C01263,2026-03-13,Riyadh,0,Organic
+C01264,2025-09-04,Riyadh,0,In-Store Signup
+C01265,2026-02-21,Riyadh,1,In-Store Signup
+C01266,2026-02-16,Jeddah,0,In-Store Signup
+C01267,2025-06-26,Jeddah,1,Referral
+C01268,2026-06-12,Jeddah,0,Organic
+C01269,2023-07-23,Makkah,1,Social Media
+C01270,2024-12-19,Jeddah,0,Organic
+C01271,2026-03-03,Makkah,1,Organic
+C01272,2025-04-16,Riyadh,1,Referral
+C01273,2023-10-06,Makkah,1,Social Media
+C01274,2023-03-26,Jeddah,1,Social Media
+C01275,2024-03-02,Makkah,1,Paid Search
+C01276,2023-05-21,Riyadh,1,Organic
+C01277,2023-10-28,Jeddah,0,In-Store Signup
+C01278,2023-02-10,Jeddah,0,Organic
+C01279,2025-07-03,Makkah,0,Referral
+C01280,2026-06-11,Riyadh,0,In-Store Signup
+C01281,2023-08-05,Jeddah,1,Paid Search
+C01282,2025-11-15,Makkah,1,Social Media
+C01283,2025-04-28,Jeddah,1,Referral
+C01284,2025-06-14,Makkah,1,In-Store Signup
+C01285,2024-12-05,Riyadh,1,Referral
+C01286,2026-04-18,Makkah,1,Organic
+C01287,2025-06-01,Jeddah,0,In-Store Signup
+C01288,2024-06-25,Riyadh,1,Referral
+C01289,2026-04-20,Makkah,1,Paid Search
+C01290,2024-01-03,Makkah,1,Organic
+C01291,2025-11-05,Riyadh,1,Paid Search
+C01292,2025-02-07,Riyadh,1,Referral
+C01293,2026-06-03,Jeddah,1,Paid Search
+C01294,2023-02-20,Jeddah,1,Organic
+C01295,2024-05-29,Riyadh,1,Referral
+C01296,2026-02-04,Riyadh,1,Referral
+C01297,2023-05-18,Jeddah,1,Organic
+C01298,2023-01-09,Riyadh,1,Referral
+C01299,2026-04-01,Jeddah,0,Organic
+C01300,2024-02-27,Makkah,1,Organic
+C01301,2023-04-04,Jeddah,1,Paid Search
+C01302,2026-05-01,Riyadh,1,Social Media
+C01303,2023-01-28,Jeddah,1,Referral
+C01304,2024-01-20,Jeddah,1,Organic
+C01305,2023-12-20,Jeddah,1,In-Store Signup
+C01306,2025-01-09,Makkah,1,Social Media
+C01307,2024-10-16,Jeddah,0,Organic
+C01308,2026-03-18,Makkah,1,Social Media
+C01309,2024-04-23,Jeddah,0,Paid Search
+C01310,2026-03-18,Jeddah,0,Organic
+C01311,2024-11-26,Riyadh,0,In-Store Signup
+C01312,2023-09-30,Jeddah,0,In-Store Signup
+C01313,2026-04-20,Riyadh,1,Organic
+C01314,2024-05-01,Makkah,1,Referral
+C01315,2025-04-30,Jeddah,1,In-Store Signup
+C01316,2024-09-08,Riyadh,0,Organic
+C01317,2026-03-22,Jeddah,1,Social Media
+C01318,2024-10-20,Jeddah,1,Organic
+C01319,2025-05-08,Makkah,1,Organic
+C01320,2026-08-01,Jeddah,1,In-Store Signup
+C01321,2026-07-01,Riyadh,1,Organic
+C01322,2024-09-28,Riyadh,1,Social Media
+C01323,2023-07-29,Makkah,0,Paid Search
+C01324,2025-11-21,Jeddah,1,Organic
+C01325,2026-04-23,Makkah,0,Organic
+C01326,2025-12-30,Makkah,1,In-Store Signup
+C01327,2025-06-03,Jeddah,1,In-Store Signup
+C01328,2025-07-07,Jeddah,0,Organic
+C01329,2023-04-04,Jeddah,0,Organic
+C01330,2025-09-10,Jeddah,0,Paid Search
+C01331,2025-12-08,Jeddah,0,Organic
+C01332,2026-04-17,Riyadh,1,In-Store Signup
+C01333,2024-07-19,Riyadh,1,Organic
+C01334,2024-10-16,Makkah,1,Organic
+C01335,2024-10-11,Riyadh,0,In-Store Signup
+C01336,2024-02-06,Riyadh,1,In-Store Signup
+C01337,2025-01-28,Makkah,1,Paid Search
+C01338,2025-02-09,Jeddah,0,In-Store Signup
+C01339,2026-04-27,Jeddah,1,Paid Search
+C01340,2024-11-09,Jeddah,1,Referral
+C01341,2025-06-08,Riyadh,0,Paid Search
+C01342,2024-03-05,Jeddah,1,Organic
+C01343,2024-05-16,Jeddah,0,In-Store Signup
+C01344,2023-08-17,Riyadh,0,Social Media
+C01345,2025-10-10,Jeddah,1,Social Media
+C01346,2026-06-14,Jeddah,1,Paid Search
+C01347,2026-01-06,Makkah,1,Referral
+C01348,2024-04-13,Jeddah,0,Referral
+C01349,2025-07-18,Makkah,0,Organic
+C01350,2026-05-03,Jeddah,1,Paid Search
+C01351,2023-04-28,Jeddah,1,In-Store Signup
+C01352,2023-01-09,Jeddah,0,Social Media
+C01353,2026-03-16,Makkah,1,In-Store Signup
+C01354,2023-02-03,Makkah,0,In-Store Signup
+C01355,2023-10-10,Riyadh,1,Paid Search
+C01356,2025-10-01,Makkah,0,Social Media
+C01357,2025-01-15,Jeddah,1,Organic
+C01358,2026-02-18,Riyadh,1,Organic
+C01359,2024-07-08,Riyadh,0,In-Store Signup
+C01360,2023-11-23,Makkah,1,Organic
+C01361,2026-06-16,Riyadh,1,In-Store Signup
+C01362,2023-02-04,Makkah,0,In-Store Signup
+C01363,2026-07-04,Jeddah,1,Paid Search
+C01364,2023-02-10,Makkah,1,In-Store Signup
+C01365,2023-09-08,Jeddah,0,In-Store Signup
+C01366,2024-02-13,Jeddah,0,Social Media
+C01367,2023-05-01,Riyadh,1,Organic
+C01368,2026-07-29,Jeddah,1,Paid Search
+C01369,2023-09-01,Jeddah,1,Organic
+C01370,2026-04-24,Jeddah,0,Organic
+C01371,2023-02-15,Jeddah,1,Organic
+C01372,2026-03-10,Riyadh,1,Referral
+C01373,2025-04-21,Makkah,0,Social Media
+C01374,2025-01-30,Jeddah,1,In-Store Signup
+C01375,2023-12-01,Jeddah,1,Referral
+C01376,2024-09-03,Riyadh,1,Organic
+C01377,2024-03-25,Jeddah,1,Referral
+C01378,2025-11-13,Riyadh,0,In-Store Signup
+C01379,2023-11-02,Riyadh,1,Social Media
+C01380,2024-02-29,Makkah,1,Organic
+C01381,2024-03-05,Jeddah,0,Social Media
+C01382,2026-05-02,Riyadh,0,Social Media
+C01383,2026-08-06,Riyadh,0,Social Media
+C01384,2024-01-07,Riyadh,1,Social Media
+C01385,2023-03-26,Riyadh,0,Paid Search
+C01386,2023-03-25,Jeddah,1,Organic
+C01387,2025-01-25,Riyadh,0,Paid Search
+C01388,2024-04-15,Makkah,1,Paid Search
+C01389,2025-12-08,Riyadh,1,Referral
+C01390,2023-10-07,Riyadh,1,Referral
+C01391,2023-04-26,Riyadh,1,Referral
+C01392,2026-02-25,Riyadh,1,Referral
+C01393,2025-07-18,Jeddah,0,Organic
+C01394,2025-03-04,Makkah,0,Organic
+C01395,2026-06-03,Makkah,0,Organic
+C01396,2024-01-05,Jeddah,1,Referral
+C01397,2023-04-15,Makkah,1,In-Store Signup
+C01398,2025-07-30,Jeddah,1,Social Media
+C01399,2026-07-14,Jeddah,0,Paid Search
+C01400,2025-12-11,Riyadh,1,Organic

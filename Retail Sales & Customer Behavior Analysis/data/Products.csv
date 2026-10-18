@@ -1,0 +1,221 @@
+﻿ProductID,ProductName,Category,Subcategory,ListPriceSAR
+P001,Milk 1L,Dairy,Milk,7.50
+P002,Bread Loaf,Bakery,Bread,5.00
+P003,Eggs 12 Pack,Dairy,Eggs,12.50
+P004,Cheddar Cheese 200g,Dairy,Cheese,11.95
+P005,Yogurt 6 Pack,Dairy,Yogurt,13.50
+P006,Butter 200g,Dairy,Butter,10.75
+P007,Pasta 500g,Pantry,Pasta,6.95
+P008,Tomato Pasta Sauce,Pantry,Sauces,8.50
+P009,Basmati Rice 2kg,Pantry,Rice,21.95
+P010,Chicken Breast 1kg,Meat,Poultry,29.95
+P011,Ground Beef 500g,Meat,Beef,24.95
+P012,Olive Oil 500ml,Pantry,Oil,24.50
+P013,Breakfast Cereal 500g,Pantry,Cereal,17.95
+P014,Coffee Ground 250g,Beverages,Coffee,22.00
+P015,Black Tea 100 Bags,Beverages,Tea,15.50
+P016,White Sugar 1kg,Pantry,Sugar,5.95
+P017,Potato Chips 150g,Snacks,Chips,8.95
+P018,Cola 2.25L,Beverages,Soft Drinks,9.00
+P019,Diapers Size 4,Baby Care,Diapers,54.95
+P020,Baby Wipes 80 Pack,Baby Care,Wipes,10.50
+P021,Shampoo 400ml,Personal Care,Hair Care,19.95
+P022,Conditioner 400ml,Personal Care,Hair Care,18.95
+P023,Laundry Detergent 2kg,Home Care,Laundry,32.95
+P024,Fabric Softener 1L,Home Care,Laundry,15.95
+P025,Dish Soap 750ml,Home Care,Cleaning,11.50
+P026,Kitchen Sponges 6 Pack,Home Care,Cleaning,8.95
+P027,Bananas 1kg,Produce,Fruit,7.95
+P028,Apples 1kg,Produce,Fruit,11.95
+P029,Tomatoes 1kg,Produce,Vegetables,8.50
+P030,Cucumbers 1kg,Produce,Vegetables,7.50
+P031,Mineral Water 24 Pack,Beverages,Water,17.95
+P032,Orange Juice 1L,Beverages,Juice,9.95
+P033,Chocolate Bar 100g,Snacks,Chocolate,6.50
+P034,Biscuits 200g,Snacks,Biscuits,7.95
+P035,Frozen Fish Classic,Meat,Seafood,37.02
+P036,Laban Multipack,Dairy,Laban,7.97
+P037,Gummy Candy Multipack,Snacks,Candy,7.26
+P038,Ice Cream Organic,Frozen,Desserts,22.46
+P039,Surface Cleaner Premium,Home Care,Cleaning,17.62
+P040,Cream Cheese Regular,Dairy,Cheese,15.22
+P041,Chicken Thighs Multipack,Meat,Poultry,23.25
+P042,Laban Family Pack,Dairy,Laban,9.69
+P043,Popcorn Family Pack,Snacks,Popcorn,10.17
+P044,Frozen Fries Classic,Frozen,Sides,11.69
+P045,Croissant Low Fat,Bakery,Pastry,3.22
+P046,Trash Bags Classic,Home Care,Supplies,9.22
+P047,Toothpaste Multipack,Personal Care,Oral Care,11.72
+P048,Chicken Thighs Value Pack,Meat,Poultry,31.84
+P049,Lentils Small Pack,Pantry,Legumes,7.26
+P050,Dark Chocolate Large Pack,Snacks,Chocolate,15.52
+P051,Dark Chocolate Classic,Snacks,Chocolate,11.66
+P052,Cream Cheese Premium,Dairy,Cheese,11.47
+P053,Baby Formula Value Pack,Baby Care,Formula,65.99
+P054,Ice Cream Classic,Frozen,Desserts,17.64
+P055,Crackers Premium,Snacks,Crackers,10.23
+P056,Baby Lotion Organic,Baby Care,Skin Care,23.96
+P057,Fresh Cream Multipack,Dairy,Cream,16.63
+P058,Gummy Candy Low Fat,Snacks,Candy,4.56
+P059,Frozen Fish Organic,Meat,Seafood,47.21
+P060,Sparkling Water Family Pack,Beverages,Water,4.52
+P061,Wholegrain Bread Value Pack,Bakery,Bread,9.38
+P062,Canned Beans Large Pack,Pantry,Canned Food,7.29
+P063,Croissant Small Pack,Bakery,Pastry,7.03
+P064,Baby Lotion Multipack,Baby Care,Skin Care,24.71
+P065,Strawberries Multipack,Produce,Fruit,21.01
+P066,Baby Formula Family Pack,Baby Care,Formula,65.97
+P067,Iced Tea Small Pack,Beverages,Tea,6.48
+P068,Frozen Pizza Value Pack,Frozen,Ready Meals,16.99
+P069,Flour Family Pack,Pantry,Baking,6.35
+P070,Cooking Oil Family Pack,Pantry,Oil,16.62
+P071,Body Wash Small Pack,Personal Care,Hygiene,18.64
+P072,Greek Yogurt Value Pack,Dairy,Yogurt,15.08
+P073,Tissues Box Value Pack,Home Care,Supplies,8.06
+P074,Mixed Nuts Organic,Snacks,Nuts,25.36
+P075,Wholegrain Bread Low Fat,Bakery,Bread,6.20
+P076,Ice Cream Regular,Frozen,Desserts,16.02
+P077,Hand Soap Organic,Personal Care,Hygiene,8.54
+P078,Wholegrain Bread Regular,Bakery,Bread,11.16
+P079,Frozen Fries Premium,Frozen,Sides,12.27
+P080,Baby Shampoo Low Fat,Baby Care,Hair Care,18.47
+P081,Lettuce Value Pack,Produce,Vegetables,5.32
+P082,Body Wash Multipack,Personal Care,Hygiene,16.89
+P083,Baby Shampoo Regular,Baby Care,Hair Care,17.12
+P084,Beef Strips Classic,Meat,Beef,34.54
+P085,Fresh Cream Family Pack,Dairy,Cream,15.31
+P086,Oranges Value Pack,Produce,Fruit,9.08
+P087,Trash Bags Premium,Home Care,Supplies,15.89
+P088,Tissues Box Regular,Home Care,Supplies,12.79
+P089,Baby Formula Large Pack,Baby Care,Formula,68.23
+P090,Pita Bread Multipack,Bakery,Bread,6.13
+P091,Ice Cream Multipack,Frozen,Desserts,21.39
+P092,Instant Coffee Multipack,Beverages,Coffee,31.55
+P093,Mango Juice Regular,Beverages,Juice,12.47
+P094,Flour Premium,Pantry,Baking,11.41
+P095,Pita Bread Premium,Bakery,Bread,8.22
+P096,Frozen Pizza Classic,Frozen,Ready Meals,17.52
+P097,Greek Yogurt Family Pack,Dairy,Yogurt,10.66
+P098,Wholegrain Bread Large Pack,Bakery,Bread,10.88
+P099,Baby Formula Organic,Baby Care,Formula,98.35
+P100,Popcorn Multipack,Snacks,Popcorn,5.66
+P101,Toilet Paper Classic,Home Care,Supplies,16.09
+P102,Dark Chocolate Multipack,Snacks,Chocolate,9.10
+P103,Baby Formula Regular,Baby Care,Formula,79.74
+P104,Greek Yogurt Organic,Dairy,Yogurt,15.75
+P105,Baby Lotion Classic,Baby Care,Skin Care,19.61
+P106,Toothpaste Low Fat,Personal Care,Oral Care,18.72
+P107,Laban Value Pack,Dairy,Laban,10.36
+P108,Lentils Classic,Pantry,Legumes,7.32
+P109,Baby Lotion Low Fat,Baby Care,Skin Care,13.21
+P110,Cooking Oil Low Fat,Pantry,Oil,25.11
+P111,Chicken Thighs Low Fat,Meat,Poultry,19.80
+P112,Energy Drink Classic,Beverages,Energy Drinks,10.93
+P113,Strawberries Premium,Produce,Fruit,20.11
+P114,Lettuce Organic,Produce,Vegetables,5.91
+P115,Hand Soap Small Pack,Personal Care,Hygiene,14.69
+P116,Cooking Oil Large Pack,Pantry,Oil,16.22
+P117,Dark Chocolate Organic,Snacks,Chocolate,11.51
+P118,Fresh Cream Value Pack,Dairy,Cream,13.40
+P119,Baby Lotion Family Pack,Baby Care,Skin Care,23.35
+P120,Onions Multipack,Produce,Vegetables,5.25
+P121,Oranges Regular,Produce,Fruit,7.92
+P122,Mixed Nuts Multipack,Snacks,Nuts,25.43
+P123,Mixed Nuts Large Pack,Snacks,Nuts,30.65
+P124,Muffin Low Fat,Bakery,Pastry,10.82
+P125,Hand Soap Value Pack,Personal Care,Hygiene,11.73
+P126,Surface Cleaner Low Fat,Home Care,Cleaning,18.21
+P127,Baby Shampoo Organic,Baby Care,Hair Care,18.13
+P128,Beef Strips Small Pack,Meat,Beef,36.32
+P129,Greek Yogurt Regular,Dairy,Yogurt,14.87
+P130,Oats Value Pack,Pantry,Cereal,10.59
+P131,Toothpaste Classic,Personal Care,Oral Care,9.18
+P132,Tissues Box Low Fat,Home Care,Supplies,7.04
+P133,Chicken Thighs Large Pack,Meat,Poultry,29.01
+P134,Beef Strips Low Fat,Meat,Beef,30.19
+P135,Croissant Multipack,Bakery,Pastry,8.68
+P136,Sparkling Water Value Pack,Beverages,Water,8.60
+P137,Wholegrain Bread Organic,Bakery,Bread,6.95
+P138,Toothbrush Family Pack,Personal Care,Oral Care,8.97
+P139,Baby Formula Small Pack,Baby Care,Formula,69.04
+P140,Laban Organic,Dairy,Laban,8.32
+P141,Sparkling Water Low Fat,Beverages,Water,6.55
+P142,Tissues Box Multipack,Home Care,Supplies,11.45
+P143,Instant Coffee Family Pack,Beverages,Coffee,17.19
+P144,Body Wash Premium,Personal Care,Hygiene,14.46
+P145,Onions Organic,Produce,Vegetables,7.30
+P146,Beef Strips Value Pack,Meat,Beef,53.65
+P147,Baby Formula Premium,Baby Care,Formula,89.02
+P148,Tissues Box Family Pack,Home Care,Supplies,9.80
+P149,Surface Cleaner Organic,Home Care,Cleaning,22.25
+P150,Oranges Low Fat,Produce,Fruit,14.87
+P151,Beef Strips Organic,Meat,Beef,34.49
+P152,Mango Juice Organic,Beverages,Juice,12.05
+P153,Dark Chocolate Value Pack,Snacks,Chocolate,12.51
+P154,Baby Lotion Large Pack,Baby Care,Skin Care,16.44
+P155,Dark Chocolate Regular,Snacks,Chocolate,16.28
+P156,Toothpaste Family Pack,Personal Care,Oral Care,15.26
+P157,Toothbrush Low Fat,Personal Care,Oral Care,12.99
+P158,Frozen Pizza Regular,Frozen,Ready Meals,15.59
+P159,Greek Yogurt Large Pack,Dairy,Yogurt,9.82
+P160,Oats Classic,Pantry,Cereal,16.90
+P161,Lettuce Regular,Produce,Vegetables,8.69
+P162,Surface Cleaner Family Pack,Home Care,Cleaning,12.94
+P163,Frozen Fries Regular,Frozen,Sides,11.73
+P164,Dark Chocolate Small Pack,Snacks,Chocolate,14.31
+P165,Oats Family Pack,Pantry,Cereal,13.19
+P166,Fresh Cream Large Pack,Dairy,Cream,10.96
+P167,Fresh Cream Organic,Dairy,Cream,9.96
+P168,Energy Drink Small Pack,Beverages,Energy Drinks,11.60
+P169,Instant Coffee Premium,Beverages,Coffee,31.89
+P170,Flour Classic,Pantry,Baking,6.27
+P171,Mango Juice Small Pack,Beverages,Juice,8.97
+P172,Toilet Paper Small Pack,Home Care,Supplies,28.15
+P173,Toothbrush Classic,Personal Care,Oral Care,11.55
+P174,Mango Juice Value Pack,Beverages,Juice,11.39
+P175,Oranges Large Pack,Produce,Fruit,8.93
+P176,Pita Bread Regular,Bakery,Bread,8.51
+P177,Cooking Oil Value Pack,Pantry,Oil,22.58
+P178,Muffin Large Pack,Bakery,Pastry,9.72
+P179,Laban Small Pack,Dairy,Laban,10.49
+P180,Ice Cream Large Pack,Frozen,Desserts,13.54
+P181,Energy Drink Large Pack,Beverages,Energy Drinks,11.37
+P182,Laban Regular,Dairy,Laban,9.80
+P183,Lentils Premium,Pantry,Legumes,13.93
+P184,Carrots Large Pack,Produce,Vegetables,6.93
+P185,Canned Beans Low Fat,Pantry,Canned Food,9.24
+P186,Crackers Organic,Snacks,Crackers,6.60
+P187,Frozen Fish Family Pack,Meat,Seafood,49.79
+P188,Pita Bread Low Fat,Bakery,Bread,6.49
+P189,Lettuce Small Pack,Produce,Vegetables,8.17
+P190,Mango Juice Large Pack,Beverages,Juice,11.16
+P191,Cream Cheese Multipack,Dairy,Cheese,11.36
+P192,Pita Bread Small Pack,Bakery,Bread,4.60
+P193,Hand Soap Regular,Personal Care,Hygiene,12.92
+P194,Gummy Candy Small Pack,Snacks,Candy,8.87
+P195,Instant Coffee Small Pack,Beverages,Coffee,27.62
+P196,Baby Shampoo Large Pack,Baby Care,Hair Care,21.23
+P197,Frozen Pizza Family Pack,Frozen,Ready Meals,26.01
+P198,Onions Classic,Produce,Vegetables,3.95
+P199,Oranges Multipack,Produce,Fruit,10.39
+P200,Onions Low Fat,Produce,Vegetables,5.99
+P201,Hand Soap Multipack,Personal Care,Hygiene,11.65
+P202,Baby Lotion Value Pack,Baby Care,Skin Care,21.67
+P203,Carrots Classic,Produce,Vegetables,7.41
+P204,Toothpaste Premium,Personal Care,Oral Care,11.77
+P205,Lettuce Premium,Produce,Vegetables,9.70
+P206,Mango Juice Multipack,Beverages,Juice,7.60
+P207,Sparkling Water Premium,Beverages,Water,4.58
+P208,Baby Shampoo Family Pack,Baby Care,Hair Care,19.15
+P209,Popcorn Large Pack,Snacks,Popcorn,9.80
+P210,Oats Large Pack,Pantry,Cereal,18.83
+P211,Laban Premium,Dairy,Laban,7.31
+P212,Lettuce Large Pack,Produce,Vegetables,7.04
+P213,Surface Cleaner Small Pack,Home Care,Cleaning,16.57
+P214,Toilet Paper Low Fat,Home Care,Supplies,24.62
+P215,Baby Formula Classic,Baby Care,Formula,61.45
+P216,Tuna Can Classic,Pantry,Canned Food,11.90
+P217,Oranges Family Pack,Produce,Fruit,7.22
+P218,Surface Cleaner Regular,Home Care,Cleaning,11.78
+P219,Muffin Premium,Bakery,Pastry,9.35
+P220,Crackers Classic,Snacks,Crackers,10.86
