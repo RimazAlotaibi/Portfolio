@@ -100,6 +100,73 @@ An Excel-based retail sales analysis using 2024–2025 transaction data, focusin
 
 ---
 
+## 4. HR Analytics
+
+**Tools:** PostgreSQL · SQL · Power BI · DAX
+
+An HR analytics project analyzing employee data, workforce distribution, compensation, and employee turnover. The project includes data quality validation, salary standardization across currencies, and an interactive two-page dashboard.
+
+![HR Analytics Dashboard](HR%20Analytics/HR_Dashboard.gif)
+
+### Key Findings
+
+- The dataset contains **4,968 employees**, including 3,113 active and 1,855 inactive employees.
+- Technology was the largest department, with **1,915 employees**.
+- NYC had the highest employee count, with **1,796 employees**.
+- Average standardized salary was approximately **USD 74.42K**.
+- **85.04% of employees** were below the reference compensation level.
+- Technology had the highest average department salary at approximately **USD 88K**.
+
+### Analysis Includes
+
+- Workforce Distribution
+- Employee Status
+- Compensation Analysis
+- Currency Standardization
+- Salary Comparison
+- Employee Turnover
+- Department and Office Performance
+- Data Quality & Validation
+
+[**View Full Project →**](HR%20Analytics)
+
+---
+
+## 5. Retail Sales & Customer Behavior Analysis
+
+**Tools:** SQL Server · Power BI · DAX · Data Modeling
+
+An end-to-end retail analytics project using 2025–2026 transaction data to analyze sales performance, customer purchasing behavior, RFM customer segmentation, and product performance.
+
+The analysis covers **16,500 transactions, 1,400 customers, and 220 products** across nine retail stores.
+
+![Retail Sales & Customer Behavior Dashboard](Retail%20Sales%20%26%20Customer%20Behavior%20Analysis/images/Dashboard.gif)
+
+### Key Findings
+
+- Completed transactions generated approximately **SAR 1.50M** in revenue.
+- Average Basket Value was **SAR 94.84**.
+- In-store sales contributed **80.6% of revenue**, compared to 19.4% from online sales.
+- Identified **414 at-risk customers** and **379 inactive customers** using purchase recency.
+- Baby Care was the highest revenue-generating category, contributing approximately **SAR 314K (20.98%)** of completed sales.
+- Product rankings differed between revenue and sales volume, highlighting the importance of evaluating both metrics.
+
+### Analysis Includes
+
+- Data Exploration & Quality Checks
+- Sales Performance
+- Revenue Trends
+- Sales Channel Analysis
+- Customer Purchase Frequency
+- Customer Spending & Recency
+- RFM Customer Segmentation
+- Product & Category Performance
+- Interactive Dashboard Development
+
+[**View Full Project →**](Retail%20Sales%20%26%20Customer%20Behavior%20Analysis)
+
+---
+
 # Technical Skills
 
 - Python
