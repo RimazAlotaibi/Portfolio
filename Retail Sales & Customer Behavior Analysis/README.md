@@ -55,7 +55,7 @@ The objective is to understand revenue trends, evaluate sales channels, identify
 
 ## Dashboard
 
-![Retail Sales & Customer Behavior Dashboard](images/dashboard.gif)
+![Retail Sales & Customer Behavior Dashboard](images/Dashboard.gif)
 
 The dashboard consists of three interactive pages:
 
